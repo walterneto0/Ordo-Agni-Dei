@@ -3,9 +3,109 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>Ordo Agni Dei</title>
+    <link rel="stylesheet" href="styles/style.css">
 </head>
 <body>
+    
+    <header class="site-header">
+        <div class="brand-wrap">
+            <img class="brand-logo" src="src/logo-ordo-agni-dei-removebg.png" alt="Logo Ordo Agni Dei">
+            <span class="brand-name">Ordo Agni Dei</span>
+        </div>
+    </header>
+
+    <nav class="site-nav" id="site-nav" aria-label="Navegacao principal">
+        <a class="nav-link" href="#home">
+            <span class="nav-icon" aria-hidden="true">⌂</span>
+            <span>Home</span>
+        </a>
+        <a class="nav-link" href="#quem-somos">
+            <span class="nav-icon" aria-hidden="true">◉</span>
+            <span>Quem somos?</span>
+        </a>
+        <a class="nav-link" href="#biblioteca">
+            <span class="nav-icon" aria-hidden="true">☷</span>
+            <span>Biblioteca</span>
+        </a>
+    </nav>
+
+    <main id="home">
+        <section class="hero">
+            <p class="eyebrow">Ordem, memoria e biblioteca</p>
+            <h1>Ordo Agni Dei</h1>
+            <p>
+                Um espaco para reunir identidade, historia e conteudo formativo com leitura clara
+                e navegacao objetiva.
+            </p>
+        </section>
+
+        <section id="quem-somos">
+            <h2>Quem somos?</h2>
+            <p>
+                A Ordo Agni Dei nasce com foco em formacao, memoria e organizacao de conteudos para
+                consulta, estudo e edificacao.
+            </p>
+            <p>
+                Este cabecalho e a navegacao foram preparados para manter o acesso rapido aos pontos
+                principais da pagina enquanto a leitura continua.
+            </p>
+        </section>
+
+        <section id="biblioteca">
+            <h2>Biblioteca</h2>
+            <p>
+                Aqui podem ficar confissoes, documentos, textos catequeticos, estudos e outras
+                referencias importantes para consulta.
+            </p>
+            <p>
+                O menu superior reaparece ao rolar para cima, facilitando o retorno rapido a qualquer
+                secao.
+            </p>
+        </section>
+    </main>
+
+    <footer class="site-footer">
+        <div class="footer-column footer-brand">
+            <img class="footer-logo" src="src/logo-ordo-agni-dei-removebg.png" alt="Logo Ordo Agni Dei">
+            <div>
+                <p class="footer-name">Ordo Agni Dei</p>
+                <p class="footer-tagline">Soli Deo Gloria</p>
+            </div>
+        </div>
+
+        <div class="footer-column footer-links">
+            <a class="footer-link" href="">Entre em contato</a>
+            <a class="footer-link" href="">Conheça a nossa equipe</a>
+        </div>
+
+        <div class="footer-column footer-actions">
+            <button class="back-to-top" type="button" aria-label="Voltar ao topo">Voltar ao topo</button>
+            <p class="footer-copy">© 2026 Ordo Agni Dei</p>
+        </div>
+    </footer>
+
+    <script>
+        const siteNav = document.getElementById("site-nav");
+        const backToTopButton = document.querySelector(".back-to-top");
+        let lastScrollY = window.scrollY;
+
+        const updateNavVisibility = () => {
+            const currentScrollY = window.scrollY;
+            const scrollingUp = currentScrollY < lastScrollY;
+            const nearTop = currentScrollY <= 24;
+
+            siteNav.classList.toggle("nav-visible", scrollingUp || nearTop);
+            lastScrollY = currentScrollY;
+        };
+
+        siteNav.classList.add("nav-visible");
+        window.addEventListener("scroll", updateNavVisibility, { passive: true });
+
+        backToTopButton?.addEventListener("click", () => {
+            window.scrollTo({ top: 0, behavior: "smooth" });
+        });
+    </script>
     
 </body>
 </html>
