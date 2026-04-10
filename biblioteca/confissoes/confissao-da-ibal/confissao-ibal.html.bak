@@ -46,65 +46,65 @@
       <p>Clique para ser redirecionado para o tópico desejado:</p>
       <h3>Doutrinas principais</h3>
       <ol>
-        <li><a class="sumario-link" href="#topico-1">Deus: O Eterno Criador</a></li>
-        <li><a class="sumario-link" href="#topico-2">Trindade: Um Deus em Três Pessoas</a></li>
-        <li><a class="sumario-link" href="#topico-3">Cristologia: Quem é Jesus?</a></li>
-        <li><a class="sumario-link" href="#topico-4">Soteriologia: O Caminho da Salvação</a></li>
-        <li><a class="sumario-link" href="#topico-5">Pneumatologia: O Espírito Santo em Nós</a></li>
-        <li><a class="sumario-link" href="#topico-6">Eclesiologia: A Igreja de Cristo</a></li>
-        <li><a class="sumario-link" href="#topico-7">Bibliologia: A Palavra Viva de Deus</a></li>
-        <li><a class="sumario-link" href="#topico-8">Escatologia: O Fim e a Eternidade</a></li>
-        <li><a class="sumario-link" href="#topico-9">Hamartiologia: O Pecado e a Queda da Humanidade</a></li>
-        <li><a class="sumario-link" href="#topico-10">Antropologia Bíblica: O Homem Segundo Deus</a></li>
-        <li><a class="sumario-link" href="#topico-11">Anjos e Demônios: O Mundo Espiritual</a></li>
-        <li><a class="sumario-link" href="#topico-12">Doutrina da Graça: Favor Imerecido</a></li>
-        <li><a class="sumario-link" href="#topico-13">Justificação: Declarados Justos em Cristo</a></li>
-        <li><a class="sumario-link" href="#topico-14">Santificação: Vida Transformada pelo Espírito</a></li>
-        <li><a class="sumario-link" href="#topico-15">A Nova Aliança: Promessa e Cumprimento</a></li>
-        <li><a class="sumario-link" href="#topico-16">Providência: O Cuidado Soberano de Deus</a></li>
-        <li><a class="sumario-link" href="#topico-17">Adoção: Filhos e Herdeiros de Deus</a></li>
-        <li><a class="sumario-link" href="#topico-18">Expiação: O Sacrifício que Purifica</a></li>
-        <li><a class="sumario-link" href="#topico-19">Revelação: Deus se Faz Conhecido</a></li>
-        <li><a class="sumario-link" href="#topico-20">Doutrina da Aliança: Promessas Eternas</a></li>
-        <li><a class="sumario-link" href="#topico-21">Doutrina da Oração: Conectados com o Pai</a></li>
-        <li><a class="sumario-link" href="#topico-22">A Ceia do Senhor: Memória e Comunhão</a></li>
-        <li><a class="sumario-link" href="#topico-23">Batismo: Sinal de Novidade de Vida</a></li>
-        <li><a class="sumario-link" href="#topico-24">Missiologia: O Propósito da Igreja no Mundo</a></li>
-        <li><a class="sumario-link" href="#topico-25">Teologia da Criação: Tudo Começa em Deus</a></li>
-        <li><a class="sumario-link" href="#topico-26">Doutrina da Reconciliação: Paz com Deus</a></li>
-        <li><a class="sumario-link" href="#topico-27">Imortalidade da Alma: Vida Além da Morte</a></li>
-        <li><a class="sumario-link" href="#topico-28">Doutrina da Ressurreição: A Vitória Sobre a Morte</a></li>
-        <li><a class="sumario-link" href="#topico-29">Justiça e Juízo: O Tribunal de Cristo</a></li>
+        <li><a href="#topico-1">Deus: O Eterno Criador</a></li>
+        <li><a href="#topico-2">Trindade: Um Deus em Três Pessoas</a></li>
+        <li><a href="#topico-3">Cristologia: Quem é Jesus?</a></li>
+        <li><a href="#topico-4">Soteriologia: O Caminho da Salvação</a></li>
+        <li><a href="#topico-5">Pneumatologia: O Espírito Santo em Nós</a></li>
+        <li><a href="#topico-6">Eclesiologia: A Igreja de Cristo</a></li>
+        <li><a href="#topico-7">Bibliologia: A Palavra Viva de Deus</a></li>
+        <li><a href="#topico-8">Escatologia: O Fim e a Eternidade</a></li>
+        <li><a href="#topico-9">Hamartiologia: O Pecado e a Queda da Humanidade</a></li>
+        <li><a href="#topico-10">Antropologia Bíblica: O Homem Segundo Deus</a></li>
+        <li><a href="#topico-11">Anjos e Demônios: O Mundo Espiritual</a></li>
+        <li><a href="#topico-12">Doutrina da Graça: Favor Imerecido</a></li>
+        <li><a href="#topico-13">Justificação: Declarados Justos em Cristo</a></li>
+        <li><a href="#topico-14">Santificação: Vida Transformada pelo Espírito</a></li>
+        <li><a href="#topico-15">A Nova Aliança: Promessa e Cumprimento</a></li>
+        <li><a href="#topico-16">Providência: O Cuidado Soberano de Deus</a></li>
+        <li><a href="#topico-17">Adoção: Filhos e Herdeiros de Deus</a></li>
+        <li><a href="#topico-18">Expiação: O Sacrifício que Purifica</a></li>
+        <li><a href="#topico-19">Revelação: Deus se Faz Conhecido</a></li>
+        <li><a href="#topico-20">Doutrina da Aliança: Promessas Eternas</a></li>
+        <li><a href="#topico-21">Doutrina da Oração: Conectados com o Pai</a></li>
+        <li><a href="#topico-22">A Ceia do Senhor: Memória e Comunhão</a></li>
+        <li><a href="#topico-23">Batismo: Sinal de Novidade de Vida</a></li>
+        <li><a href="#topico-24">Missiologia: O Propósito da Igreja no Mundo</a></li>
+        <li><a href="#topico-25">Teologia da Criação: Tudo Começa em Deus</a></li>
+        <li><a href="#topico-26">Doutrina da Reconciliação: Paz com Deus</a></li>
+        <li><a href="#topico-27">Imortalidade da Alma: Vida Além da Morte</a></li>
+        <li><a href="#topico-28">Doutrina da Ressurreição: A Vitória Sobre a Morte</a></li>
+        <li><a href="#topico-29">Justiça e Juízo: O Tribunal de Cristo</a></li>
         <h3>Doutrinas Contemporâneas</h3>
-        <li><a class="sumario-link" href="#topico-30">Pedofilia na Igreja: Justiça, Verdade e Compaixão</a></li>
-        <li><a class="sumario-link" href="#topico-31">Abusos Sexuais na Igreja: Feridas, Justiça e Restauração</a></li>
-        <li><a class="sumario-link" href="#topico-32">Homossexualidade: Verdade Bíblica e Amor Compassivo</a></li>
-        <li><a class="sumario-link" href="#topico-33">Casamento Gay: Fé, Liberdade e Princípios Bíblicos</a></li>
-        <li><a class="sumario-link" href="#topico-34">Pornografia: Vício Silencioso, Ferida Profunda</a></li>
-        <li><a class="sumario-link" href="#topico-35">Masturbação e Pureza: Desejo, Disciplina e Santidade Interior</a></li>
-        <li><a class="sumario-link" href="#topico-36">Sexo Antes do Casamento: Liberdade ou Ilusão?</a></li>
-        <li><a class="sumario-link" href="#topico-37">Adultério: Traição, Consequência e Perdão</a></li>
-        <li><a class="sumario-link" href="#topico-38">Poliamor e Relacionamentos Abertos: Liberdade Sem Aliança?</a></li>
-        <li><a class="sumario-link" href="#topico-39">Aborto: Vida, Dor e a Voz de Deus</a></li>
-        <li><a class="sumario-link" href="#topico-40">Eutanásia e Suicídio Assistido: Sofrimento, Esperança e o Senhorio da Vida</a></li>
-        <li><a class="sumario-link" href="#topico-41">Desigualdade Social: Justiça, Generosidade e o Coração de Deus</a></li>
-        <li><a class="sumario-link" href="#topico-42">O Poder na Igreja: Autoridade Espiritual e Riscos de Dominação</a></li>
-        <li><a class="sumario-link" href="#topico-43">A Mulher no Cristianismo: Igualdade, Chamado e Limites Bíblicos</a></li>
-        <li><a class="sumario-link" href="#topico-44">Feminismo: A Voz da Mulher e a Visão Bíblica do Valor Feminino</a></li>
-        <li><a class="sumario-link" href="#topico-45">Evolucionismo e Big Bang: fé cristã e ciência em diálogo</a></li>
-        <li><a class="sumario-link" href="#topico-46">Ateísmo e Secularismo - Resposta à Negação de Deus com Racionalidade e Fé Viva</a></li>
-        <li><a class="sumario-link" href="#topico-47">Capitalismo, Consumo e Pobreza: Fé, Justiça e Generosidade</a></li>
-        <li><a class="sumario-link" href="#topico-48">Legalização das Drogas: liberdade ou autodestruição?</a></li>
-        <li><a class="sumario-link" href="#topico-49">Guerra, Violência e Paz: o cristianismo em tempos de conflito</a></li>
-        <li><a class="sumario-link" href="#topico-50">Ditadura: a igreja e os regimes autoritários</a></li>
-        <li><a class="sumario-link" href="#topico-51">Política e Religião: fé pública com responsabilidade bíblica</a></li>
-        <li><a class="sumario-link" href="#topico-52">Ideologia de Gênero: Confusão Cultural e a Verdade do Criador</a></li>
-        <li><a class="sumario-link" href="#topico-53">Cancelamento, Redes Sociais e a Cultura do Julgamento: Verdade, Misericórdia e Testemunho Cristão no Mundo Digital</a></li>
-        <li><a class="sumario-link" href="#topico-54">Tecnologia, Redes Sociais e Espiritualidade: Distrações ou Ferramentas para a Missão?</a></li>
-        <li><a class="sumario-link" href="#topico-55">Nova Configuração Familiar: Como Lidar com Lares Não Tradicionais à Luz da Graça e da Verdade</a></li>
-        <li><a class="sumario-link" href="#topico-56">Educação Sexual nas Escolas: A Igreja como Formadora de Consciência Crítica e Princípios</a></li>
-        <li><a class="sumario-link" href="#topico-57">Liberdade de Expressão e Intolerância Religiosa: O Cristianismo em Sociedades Plurais</a></li>
-        <li><a class="sumario-link" href="#topico-58">Ecologia e Criação: O Chamado Cristão para Cuidar da Terra</a></li>
+        <li><a href="#topico-30">Pedofilia na Igreja: Justiça, Verdade e Compaixão</a></li>
+        <li><a href="#topico-31">Abusos Sexuais na Igreja: Feridas, Justiça e Restauração</a></li>
+        <li><a href="#topico-32">Homossexualidade: Verdade Bíblica e Amor Compassivo</a></li>
+        <li><a href="#topico-33">Casamento Gay: Fé, Liberdade e Princípios Bíblicos</a></li>
+        <li><a href="#topico-34">Pornografia: Vício Silencioso, Ferida Profunda</a></li>
+        <li><a href="#topico-35">Masturbação e Pureza: Desejo, Disciplina e Santidade Interior</a></li>
+        <li><a href="#topico-36">Sexo Antes do Casamento: Liberdade ou Ilusão?</a></li>
+        <li><a href="#topico-37">Adultério: Traição, Consequência e Perdão</a></li>
+        <li><a href="#topico-38">Poliamor e Relacionamentos Abertos: Liberdade Sem Aliança?</a></li>
+        <li><a href="#topico-39">Aborto: Vida, Dor e a Voz de Deus</a></li>
+        <li><a href="#topico-40">Eutanásia e Suicídio Assistido: Sofrimento, Esperança e o Senhorio da Vida</a></li>
+        <li><a href="#topico-41">Desigualdade Social: Justiça, Generosidade e o Coração de Deus</a></li>
+        <li><a href="#topico-42">O Poder na Igreja: Autoridade Espiritual e Riscos de Dominação</a></li>
+        <li><a href="#topico-43">A Mulher no Cristianismo: Igualdade, Chamado e Limites Bíblicos</a></li>
+        <li><a href="#topico-44">Feminismo: A Voz da Mulher e a Visão Bíblica do Valor Feminino</a></li>
+        <li><a href="#topico-45">Evolucionismo e Big Bang: fé cristã e ciência em diálogo</a></li>
+        <li><a href="#topico-46">Ateísmo e Secularismo - Resposta à Negação de Deus com Racionalidade e Fé Viva</a></li>
+        <li><a href="#topico-47">Capitalismo, Consumo e Pobreza: Fé, Justiça e Generosidade</a></li>
+        <li><a href="#topico-48">Legalização das Drogas: liberdade ou autodestruição?</a></li>
+        <li><a href="#topico-49">Guerra, Violência e Paz: o cristianismo em tempos de conflito</a></li>
+        <li><a href="#topico-50">Ditadura: a igreja e os regimes autoritários</a></li>
+        <li><a href="#topico-51">Política e Religião: fé pública com responsabilidade bíblica</a></li>
+        <li><a href="#topico-52">Ideologia de Gênero: Confusão Cultural e a Verdade do Criador</a></li>
+        <li><a href="#topico-53">Cancelamento, Redes Sociais e a Cultura do Julgamento: Verdade, Misericórdia e Testemunho Cristão no Mundo Digital</a></li>
+        <li><a href="#topico-54">Tecnologia, Redes Sociais e Espiritualidade: Distrações ou Ferramentas para a Missão?</a></li>
+        <li><a href="#topico-55">Nova Configuração Familiar: Como Lidar com Lares Não Tradicionais à Luz da Graça e da Verdade</a></li>
+        <li><a href="#topico-56">Educação Sexual nas Escolas: A Igreja como Formadora de Consciência Crítica e Princípios</a></li>
+        <li><a href="#topico-57">Liberdade de Expressão e Intolerância Religiosa: O Cristianismo em Sociedades Plurais</a></li>
+        <li><a href="#topico-58">Ecologia e Criação: O Chamado Cristão para Cuidar da Terra</a></li>
       </ol>
     </nav>
     <section>
@@ -1950,20 +1950,9 @@
       <p>Responsabilidade pastoral e institucional A liderança eclesiástica deve agir de forma proativa, ética e transparente. Isso inclui:</p>
       <p>O princípio é claro: a restauração espiritual de um abusador não elimina as consequências legais e morais de seus atos. Perdoar não significa ocultar; amar não significa proteger o pecado.</p>
       <p>Compaixão e cura para os feridos Jesus é aquele que não apenas condena o pecado, mas também cura as feridas causadas por ele. Ele veio “pregar boas-novas aos pobres, proclamar libertação aos cativos e restauração da vista aos cegos, para pôr em liberdade os oprimidos” (Lc 4.18). Àqueles que sofreram abusos, a mensagem do Evangelho é: você não está só, e sua dor não será ignorada.</p>
-      <p>A Igreja deve ser lugar de refúgio, e não de revitimização. A compaixão que Cristo demonstrou deve se traduzir em ações concretas de acolhimento, restauração emocional, discipulado sensível e proteção ativa. </p>
-      <p>Frases para reflexão:</p>
-      <ol>
-        <li>A justiça de Deus nunca será aliada do silêncio que acoberta a maldade. </li>
-        <li>A criança ferida no templo da religião precisa encontrar cura no altar da verdade. </li>
-        <li>A Igreja que protege o agressor trai o Cristo que protege os pequenos.</li>
-      </ol>
-      <p>Medidas de prevenção e resposta:</p>
-      <ol>
-        <li>Criar mecanismos seguros de denúncia;</li>
-        <li>Encaminhar imediatamente os casos às autoridades competentes (Rm .1-4);</li>
-        <li>Acompanhar pastoralmente a vítima, oferecendo escuta, cuidado e restauração;</li>
-        <li>Remover o agressor de qualquer função ministerial, pois “é necessário que o bispo seja irrepreensível” (1Tm 3.2), e isso vale para qualquer posição de liderança.</li>
-      </ol>
+      <p>A Igreja deve ser lugar de refúgio, e não de revitimização. A compaixão que Cristo demonstrou deve se traduzir em ações concretas de acolhimento, restauração emocional, discipulado sensível e proteção ativa. Frases para reflexão</p>
+      <p>— A justiça de Deus nunca será aliada do silêncio que acoberta a maldade. — A criança ferida no templo da religião precisa encontrar cura no altar da verdade. — A Igreja que protege o agressor trai o Cristo que protege os pequenos.</p>
+      <ol><li>Criar mecanismos seguros de denúncia;</li><li>Encaminhar imediatamente os casos às autoridades competentes (Rm .1-4);</li><li>Acompanhar pastoralmente a vítima, oferecendo escuta, cuidado e restauração;</li><li>Remover o agressor de qualquer função ministerial, pois “é necessário que o bispo seja irrepreensível” (1Tm 3.2), e isso vale para qualquer posição de liderança.</li></ol>
     </section>
     <section id="topico-31">
       <h2>Abusos Sexuais na Igreja: Feridas, Justiça e Restauração</h2>
@@ -1978,12 +1967,9 @@
       <p>Cuidado com os feridos</p>
       <p>As vítimas de abuso precisam ser vistas, ouvidas e tratadas com dignidade. A Igreja deve se posicionar ao lado dos oprimidos, como fazia Jesus: “Não esmagará a cana quebrada, nem apagará o pavio que fumega” (Isaías .3). Cuidar dos que foram feridos por dentro é tarefa sagrada.</p>
       <p>Restaurar é mais do que perdoar — é caminhar junto na reconstrução da alma. É dizer com atitudes que o corpo de Cristo também sangra com os que foram machucados.</p>
-      <p>Frases para reflexão:</p>
-      <ol>
-        <li>O Evangelho não é esconderijo de abusadores, mas abrigo de feridos. </li>
-        <li>A restauração começa quando a verdade deixa de ser temida e passa a ser vivida.</li>
-        <li>Quando a Igreja se cala diante do abuso, ela nega o próprio Cristo que veio para libertar os oprimidos.</li>
-      </ol>
+      <p>Frases para reflexão</p>
+      <p>— O Evangelho não é esconderijo de abusadores, mas abrigo de feridos. — A restauração começa quando a verdade deixa de ser temida e passa a ser vivida.</p>
+      <p>— Quando a Igreja se cala diante do abuso, ela nega o próprio Cristo que veio para libertar os oprimidos.</p>
     </section>
     <section id="topico-32">
       <h2>Homossexualidade: Verdade Bíblica e Amor Compassivo</h2>
@@ -1994,13 +1980,7 @@
       <p>A missão da Igreja é proclamar a verdade com amor. Isso significa que</p>
       <p>pessoas que sentem atração pelo mesmo sexo devem ser acolhidas, ouvidas e respeitadas, como qualquer outra pessoa. Mas também significa que a Igreja não pode distorcer as Escrituras para acomodar o erro.</p>
       <p>O discipulado cristão é um chamado à cruz, à renúncia e à transformação. Quem ama o Evangelho está disposto a deixar para trás tudo que se opõe ao Reino — e isso inclui inclinações, comportamentos e padrões que não glorificam a Deus. O acolhimento verdadeiro não é aquele que afirma o pecado para não perder o outro, mas aquele que caminha junto, ora, ensina, exorta com paciência e celebra cada passo de arrependimento e fé. Cuidado com a nova moralidade</p>
-      <p>Vivemos em uma geração que confunde amor com aceitação irrestrita. Mas o amor de Deus é diferente — Ele não nos aceita como somos para nos deixar como estamos. Ele nos transforma por dentro. A pressão cultural para que a Igreja mude sua doutrina é real, mas o chamado de Deus é permanecer firme. Como está escrito: “Não vos conformeis com este século, mas transformai-vos pela renovação da vossa mente” (Romanos 12.2). A santidade não é um conceito ultrapassado; é uma expressão do amor divino. </p>
-      <p>Frases para reflexão:</p>
-      <ol>
-        <li>A verdade bíblica não é cruel; ela é a ponte para a liberdade. </li>
-        <li>A Igreja não existe para condenar, mas também não pode ser cúmplice do engano. </li>
-        <li>Amar alguém é ajudá-lo a enxergar quem ele é em Cristo — não quem ele sente que é no espelho da cultura.</li>
-      </ol>
+      <p>Vivemos em uma geração que confunde amor com aceitação irrestrita. Mas o amor de Deus é diferente — Ele não nos aceita como somos para nos deixar como estamos. Ele nos transforma por dentro. A pressão cultural para que a Igreja mude sua doutrina é real, mas o chamado de Deus é permanecer firme. Como está escrito: “Não vos conformeis com este século, mas transformai-vos pela renovação da vossa mente” (Romanos 12.2). A santidade não é um conceito ultrapassado; é uma expressão do amor divino. Frases para reflexão — A verdade bíblica não é cruel; ela é a ponte para a liberdade. — A Igreja não existe para condenar, mas também não pode ser cúmplice do engano. — Amar alguém é ajudá-lo a enxergar quem ele é em Cristo — não quem ele sente que é no espelho da cultura.</p>
     </section>
     <section id="topico-33">
       <h2>Casamento Gay: Fé, Liberdade e Princípios Bíblicos</h2>
@@ -2011,11 +1991,8 @@
       <p>Na perspectiva bíblica, o casamento é mais do que uma instituição: é uma figura profética. Ele aponta para o noivo que é Cristo, e a noiva que é a Igreja. Essa linguagem não é neutra. Ela carrega propósito, identidade e escatologia. Redefinir o casamento é romper com esse sinal profético e esvaziar sua mensagem.</p>
       <p>Por isso, a Igreja não está autorizada a oficiar casamentos entre pessoas do mesmo sexo, mesmo que a lei do país assim permita. Nossa lealdade maior é ao Reino de Deus. Não se trata de intolerância, mas de obediência à verdade que liberta e santifica.</p>
       <p>Frases para reflexão</p>
-      <ol>
-        <li>O amor não se corrompe quando é guiado pela verdade; ele amadurece. </li>
-        <li>Fé não é impor a doutrina ao mundo, mas recusar-se a moldar a doutrina ao mundo.</li>
-        <li>O casamento, no plano de Deus, é mais do que afeto — é um pacto com propósito eterno.</li>
-      </ol>
+      <p>— O amor não se corrompe quando é guiado pela verdade; ele amadurece. — Fé não é impor a doutrina ao mundo, mas recusar-se a moldar a doutrina ao mundo.</p>
+      <p>— O casamento, no plano de Deus, é mais do que afeto — é um pacto com propósito eterno.</p>
     </section>
     <section id="topico-34">
       <h2>Pornografia: Vício Silencioso, Ferida Profunda</h2>
@@ -2030,11 +2007,7 @@
       <p>É preciso luz. Onde há segredo, o vício cresce. Quando a verdade entra, o ciclo começa a ruir. O apóstolo Tiago escreveu com firmeza e compaixão: “Confessem os seus pecados uns aos outros e orem uns pelos outros para serem curados” (Tiago 5.16). A confissão é o portal da cura. Ela fere o orgulho, mas salva a alma. Depois vem a reconstrução interior. A mente precisa ser limpa, não apenas do que foi visto, mas do que foi acreditado. Imagens doentias precisam dar lugar a promessas vivas. Versículos precisam ocupar o espaço que antes era do engano. Isso não acontece em um estalo — é um processo diário, feito de passos curtos, quedas tratadas e avanços celebrados.</p>
       <p>Buscar ajuda também é sinal de coragem. Homens e mulheres que decidem não andar sozinhos encontram força onde pensavam estar apenas fraqueza. Terapia, aconselhamento pastoral, grupos de apoio — cada recurso pode ser uma ferramenta nas mãos do Deus que cura por dentro. E a graça? Ela não é uma ideia bonita. É um poder real. Vai além do perdão que alivia. É força que sustenta o recomeço. Jesus não veio só para limpar o passado. Ele veio para dar vigor ao novo caminho. Com Ele, os olhos podem ser restaurados. A mente, renovada. O coração, livre.</p>
       <p>Frases para reflexão:</p>
-      <ol>
-        <li>O segredo alimenta o vício; a confissão enfraquece suas raízes. </li>
-        <li>A pornografia deixa feridas que não aparecem no espelho, mas que sangram na alma. </li>
-        <li>Quem traz sua luta para a luz, abre espaço para a graça fazer o que a culpa nunca conseguiu.</li>
-      </ol>
+      <p>— O segredo alimenta o vício; a confissão enfraquece suas raízes. — A pornografia deixa feridas que não aparecem no espelho, mas que sangram na alma. — Quem traz sua luta para a luz, abre espaço para a graça fazer o que a culpa nunca conseguiu.</p>
     </section>
     <section id="topico-35">
       <h2>Masturbação e Pureza: Desejo, Disciplina e Santidade Interior</h2>
@@ -2047,13 +2020,7 @@
       <p>sem escolha. É obra do Espírito, mas se fortalece a cada vez que dizemos “não” ao velho padrão e “sim” à nova forma de viver — “despojando-vos do velho homem... e vos revestindo do novo, criado segundo Deus” (Efésios 4.22-24). Para que esse processo seja real, é preciso fechar as portas que mantêm o ciclo vivo. Isso significa eliminar gatilhos diários: páginas que despertam fantasias, perfis que alimentam desejos distorcidos, tempo demais em solidão improdutiva. A alma desprotegida busca refúgio onde encontra mais facilidade, não onde há mais verdade.</p>
       <p>Por outro lado, também é urgente ocupar o interior com o que gera vida. A Bíblia lida com o coração como um espaço que sempre se enche de algo — por isso, deve ser preenchido com o que edifica. Amizades que encorajam, textos que restauram, orações sinceras, confissões que libertam. Tudo isso compõe uma rotina que transforma.</p>
       <p>A caminhada não será breve. Nem sempre será fácil. Mas a liberdade existe, e ela se revela passo a passo, dia após dia, decisão após decisão. O pecado tenta marcar território, mas a graça insiste em reescrever a história.</p>
-      <p>Cristo não veio apenas para perdoar os que caem, mas para andar junto com os que lutam. O Evangelho é boa notícia também para quem se sente sujo por dentro. Ele não se escandaliza com o nosso pecado — mas também não faz concessões com ele. Seu convite é claro: “Vem como estás, mas não permaneças como veio.” </p>
-      <p>Frases para reflexão:</p>
-      <ol>
-        <li>O desejo sem direção vira prisão; o desejo entregue a Deus se torna adoração. </li>
-        <li>Pureza não é ausência de tentação, é decisão contínua por santidade. </li>
-        <li>A masturbação é um alívio momentâneo que esconde um anseio por comunhão real — só Cristo preenche esse lugar</li>
-      </ol>
+      <p>Cristo não veio apenas para perdoar os que caem, mas para andar junto com os que lutam. O Evangelho é boa notícia também para quem se sente sujo por dentro. Ele não se escandaliza com o nosso pecado — mas também não faz concessões com ele. Seu convite é claro: “Vem como estás, mas não permaneças como veio.” Frases para reflexão — O desejo sem direção vira prisão; o desejo entregue a Deus se torna adoração. — Pureza não é ausência de tentação, é decisão contínua por santidade. — A masturbação é um alívio momentâneo que esconde um anseio por comunhão real — só Cristo preenche esse lugar.</p>
     </section>
     <section id="topico-36">
       <h2>Sexo Antes do Casamento: Liberdade ou Ilusão?</h2>
@@ -2067,12 +2034,7 @@
       <p>faça”, o cristão responde: “se eu desejo, entrego a Deus”. Cada decisão de recusar a antecipação é como um tijolo lançando alicerces — firmes, profundos e invisíveis. Casais que optam por guardar a sexualidade antes do casamento não estão apenas seguindo regras; estão construindo confiança, maturidade e respeito.</p>
       <p>Não é uma caminhada fácil. A luta é real. O desejo é intenso. A tentação, constante. Mas a graça é suficiente. E mais do que suficiente: é restauradora, fortalecedora, perseverante. Quem confia no tempo de Deus descobrirá que a espera não foi tempo perdido, mas investimento no que realmente vale a pena.</p>
       <p>E para quem já caiu? Não há fim. Há recomeço. A graça de Cristo alcança os que tropeçaram e os chama à restauração. O passado não define o que Deus ainda pode fazer. Santidade também é possível depois do erro — quando há arrependimento e nova disposição de caminhar com integridade.</p>
-      <p>Frases para reflexão</p>
-        <ol>
-          <li>Sexo sem aliança é prazer sem proteção: une o corpo, mas fere a alma. </li>
-          <li>O mundo diz “aproveite agora”; Deus sussurra “vale a pena esperar”. </li>
-          <li>A espera pode ser difícil, mas nunca será em vão quando a motivação é honrar ao Senhor.</li>
-        </ol>
+      <p>Frases para reflexão — Sexo sem aliança é prazer sem proteção: une o corpo, mas fere a alma. — O mundo diz “aproveite agora”; Deus sussurra “vale a pena esperar”. — A espera pode ser difícil, mas nunca será em vão quando a motivação é honrar ao Senhor.</p>
     </section>
     <section id="topico-37">
       <h2>Adultério: Traição, Consequência e Perdão</h2>
@@ -2083,11 +2045,7 @@
       <p>Na Bíblia, vemos exemplos como o de Davi e Bate-Seba (2Samuel 11), em que o pecado oculto levou à morte, engano e sofrimento. O adultério, mesmo que escondido por um tempo, traz consequência. Gálatas 6.7 alerta: “Tudo o que o homem semear, isso também colherá.” A traição começa quando a alma se afasta do compromisso, quando a rotina apaga a aliança e o coração começa a flertar com o que está fora. Por isso, casamentos saudáveis não são os que nunca foram tentados, mas os que cultivam proteção, diálogo e vigilância constante.</p>
       <p>O caminho do arrependimento e da restauração Mesmo com todas as consequências, há esperança. Deus não fecha a porta para os que erraram, mas exige um arrependimento verdadeiro. Isso inclui confessar, abandonar o pecado e buscar restauração com humildade. Em João 8.11, Jesus diz à mulher apanhada em adultério: “Vai e não peques mais.” Ele não a condena, mas também não a isenta. O perdão não anula a verdade. Ele a transforma. O caminho de volta é doloroso, mas possível. Leva tempo. Exige reconquista da confiança, reestruturação do relacionamento e, muitas vezes, acompanhamento pastoral ou terapêutico. Mas o Deus que sara corações também restaura casamentos.</p>
       <p>Frases para reflexão</p>
-      <ol>
-        <li>O adultério não começa no corpo, mas quando o coração abandona o compromisso. </li>
-        <li>Perdoar não é fingir que nada aconteceu, é decidir caminhar para algo novo, com verdade. </li>
-        <li>A fidelidade é uma semente plantada todos os dias — e precisa ser regada com vigilância e graça.</li>
-      </ol>
+      <p>— O adultério não começa no corpo, mas quando o coração abandona o compromisso. — Perdoar não é fingir que nada aconteceu, é decidir caminhar para algo novo, com verdade. — A fidelidade é uma semente plantada todos os dias — e precisa ser regada com vigilância e graça.</p>
     </section>
     <section id="topico-38">
       <h2>Poliamor e Relacionamentos Abertos: Liberdade Sem Aliança?</h2>
@@ -2100,13 +2058,7 @@
       <p>aliança tendem a se tornar vínculos frágeis, onde não há segurança para crescer, nem espaço para confiar plenamente.</p>
       <p>Assim, o apóstolo Paulo ensina que o amor “não busca os seus próprios interesses” (1Coríntios 13.5). O poliamor, ao contrário, gira em torno da própria satisfação. Não há renúncia verdadeira quando se mantém abertas todas as portas de desejo.</p>
       <p>O valor da exclusividade e da aliança A exclusividade não é limitação — é proteção. Quando duas pessoas escolhem ser uma só carne, elas estão dizendo: “eu escolho você e renuncio a todos os outros”. Essa escolha é o terreno onde nascem a confiança, a intimidade e a profundidade que nenhuma relação aberta pode oferecer.</p>
-      <p>Dessa forma, a aliança permanece. Quando os sentimentos mudam? É a fidelidade que sustenta. O amor verdadeiro não depende da maré emocional. Ele se ancora na decisão de permanecer. O mundo muda suas regras, mas o Reino não reescreve seus princípios. A fidelidade continua sendo sua linguagem. E essa linguagem se aprende no cotidiano, nos altos e baixos, na renúncia e na escolha diária de ser de um só. Cristo é o padrão. Ele amou a Igreja com amor exclusivo, sacrificando-se por ela (Efésios 5.25-27). Não dividiu seu coração com outra. Não buscou alternativas. Amou até o fim. E quem o segue é chamado a amar assim também — com profundidade, entrega e verdade.</p> 
-        <p>Frases para reflexão</p>
-        <ol>
-          <li>Relacionamentos abertos têm múltiplos corpos, mas corações cada vez mais vazios. </li>
-          <li>A aliança é a casa onde o amor verdadeiro escolhe habitar. </li>
-          <li>Liberdade sem entrega pode parecer leve, mas nunca sustenta vínculos profundos.</li>
-        </ol>
+      <p>Dessa forma, a aliança permanece. Quando os sentimentos mudam? É a fidelidade que sustenta. O amor verdadeiro não depende da maré emocional. Ele se ancora na decisão de permanecer. O mundo muda suas regras, mas o Reino não reescreve seus princípios. A fidelidade continua sendo sua linguagem. E essa linguagem se aprende no cotidiano, nos altos e baixos, na renúncia e na escolha diária de ser de um só. Cristo é o padrão. Ele amou a Igreja com amor exclusivo, sacrificando-se por ela (Efésios 5.25-27). Não dividiu seu coração com outra. Não buscou alternativas. Amou até o fim. E quem o segue é chamado a amar assim também — com profundidade, entrega e verdade. Frases para reflexão — Relacionamentos abertos têm múltiplos corpos, mas corações cada vez mais vazios. — A aliança é a casa onde o amor verdadeiro escolhe habitar. — Liberdade sem entrega pode parecer leve, mas nunca sustenta vínculos profundos.</p>
     </section>
     <section id="topico-39">
       <h2>Aborto: Vida, Dor e a Voz de Deus</h2>
@@ -2115,12 +2067,7 @@
       <p>O aborto, portanto, não é apenas uma questão de saúde pública ou de decisão individual — é um confronto direto com o princípio da vida como dom sagrado. A vida é sempre uma dádiva, mesmo quando chega em circunstâncias inesperadas. E o papel do cristão é protegê-la, honrá-la e defendê-la, desde a concepção até a morte natural.</p>
       <p>A dor por trás da decisão</p>
       <p>É preciso, porém, reconhecer: nenhuma mulher acorda desejando abortar. Por trás dessa escolha, quase sempre há medo, abandono, pressão, desespero. Julgar é fácil; acolher é o desafio. A Igreja não pode apenas levantar placas contra o aborto — ela precisa abrir braços para quem está quebrada por dentro. Por isso, falar sobre aborto exige compaixão. Exige sensibilidade para ouvir histórias marcadas por abuso, miséria, abandono e vergonha. E também exige coragem para anunciar que, mesmo após o erro, há perdão. Mesmo depois da morte, há graça. O sangue de Cristo é mais forte do que qualquer passado. O chamado à responsabilidade e à misericórdia Proteger a vida também significa apoiar políticas públicas que acolham mães em situação de risco, fortalecer redes de adoção e oferecer cuidado emocional e espiritual a quem pensa em desistir. Não basta ser contra o aborto. É preciso ser a favor da vida — em todas as suas formas. A Igreja não pode ser um tribunal. Precisa ser refúgio. Um lugar onde mulheres feridas encontrem espaço para recomeçar, e onde a dignidade da vida seja celebrada com ações concretas.</p>
-      <p>Frases para reflexão</p>
-      <ol>
-        <li> A vida não começa quando o mundo vê, mas quando Deus já conhece. </li>
-        <li> Ser pró-vida é mais do que ser contra o aborto — é estender a mão antes que a dor fale mais alto. </li>
-        <li> A cruz de Cristo não nega a verdade, mas abre caminho para a restauração.</li>
-      </ol>
+      <p>Frases para reflexão — A vida não começa quando o mundo vê, mas quando Deus já conhece. — Ser pró-vida é mais do que ser contra o aborto — é estender a mão antes que a dor fale mais alto. — A cruz de Cristo não nega a verdade, mas abre caminho para a restauração.</p>
     </section>
     <section id="topico-40">
       <h2>Eutanásia e Suicídio Assistido: Sofrimento, Esperança e o Senhorio da Vida</h2>
@@ -2131,11 +2078,8 @@
       <p>Em contrapartida, a fé cristã nos chama a outro olhar. A cruz de Cristo não é apenas símbolo de dor, mas de redenção no meio da dor. O sofrimento pode ser misterioso, mas não é inútil. Em Romanos 8.18, Paulo afirma: “Os sofrimentos do tempo presente não podem ser comparados com a glória a ser revelada em nós.” Cuidado até o fim Por outro lado, ser contra a eutanásia não significa defender tratamentos desumanos ou a manutenção artificial da vida a qualquer custo. A fé bíblica reconhece os limites da medicina. Interromper intervenções invasivas que apenas prolongam o processo natural da morte não é pecado — é, muitas vezes, ato de misericórdia.</p>
       <p>Sendo assim, o cristão é chamado a oferecer cuidado até o fim. Isso inclui presença, escuta, conforto espiritual, alívio da dor, dignidade no morrer. A pastoral do leito deve ser tão forte quanto a pregação do púlpito. O evangelho é luz também no vale da sombra da morte.</p>
       <p>Frases para reflexão</p>
-      <ol>
-        <li> A vida é dom; o sofrimento não anula o presente que ela é. </li>
-        <li> A cruz não eliminou a dor — atravessou-a com sentido eterno.</li>
-        <li> Cuidar de quem sofre é declarar que nenhum momento é insignificante diante de Deus.</li>
-      </ol>
+      <p>— A vida é dom; o sofrimento não anula o presente que ela é. — A cruz não eliminou a dor — atravessou-a com sentido eterno.</p>
+      <p>— Cuidar de quem sofre é declarar que nenhum momento é insignificante diante de Deus.</p>
     </section>
     <section id="topico-41">
       <h2>Desigualdade Social: Justiça, Generosidade e o Coração de Deus</h2>
@@ -2143,14 +2087,7 @@
       <p>Diante desse cenário, a desigualdade social não pode ser ignorada pelo povo de Deus. Quando uma sociedade acumula riqueza nas mãos de poucos e abandona muitos à margem, rompe-se não apenas a equidade humana, mas também o reflexo da imagem divina em cada ser. A injustiça não é neutra; ela grita aos céus. Chamados a viver de forma diferente Sob esse ponto de vista, a comunidade cristã não pode ser apenas um espaço de culto — precisa ser também um espaço de partilha. Em Atos 4.34-35, a igreja primitiva viveu isso com profundidade: “Não havia entre eles necessitado algum... e repartia-se a cada um conforme a sua necessidade.” Não se trata de igualar posses, mas de promover dignidade. A generosidade é a linguagem do Reino.</p>
       <p>Além disso, a fé cristã convoca cada discípulo a rever suas prioridades. Não é possível seguir um Cristo pobre e viver anestesiado diante da miséria. “Quem tiver bens do mundo e vir seu irmão em necessidade, mas fechar o coração, como pode o amor de Deus permanecer nele?” (1João 3.17). O Evangelho nos ensina que o que temos não é só nosso. O pão na mesa é bênção, mas também responsabilidade. Em contrapartida, o sistema deste mundo ensina a acumular, a competir, a se proteger. Mas o Reino de Deus subverte essa lógica: manda abrir a mão, repartir o manto, acolher o caído. Quando a igreja vive isso, ela se torna sinal visível de um outro modo de existir. O coração de Deus pulsa por justiça</p>
       <p>Por outro lado, combater a desigualdade social não se resume a ações assistenciais pontuais. É necessário romper ciclos, gerar oportunidade, ensinar a semear com dignidade. O pobre não quer esmola — quer esperança. E a Igreja tem o dever de oferecer ambas: cuidado imediato e transformação duradoura.</p>
-      <p>Sendo assim, a prática da justiça social é expressão concreta do amor de Deus. A generosidade não é um gesto opcional; é uma marca do discipulado. O coração de Deus pulsa por justiça, e o nosso precisa pulsar no mesmo ritmo.
-        <p>Frases para reflexão</p>
-        <ol>
-          <li> A fé que não reparte não transforma — apenas adormece. </li>
-          <li> A injustiça não é invisível para Deus; ela clama, e Ele ouve. </li>
-          <li> Viver o Evangelho é amar o pobre não como projeto, mas como irmão.</li>
-        </ol>
-      </p>
+      <p>Sendo assim, a prática da justiça social é expressão concreta do amor de Deus. A generosidade não é um gesto opcional; é uma marca do discipulado. O coração de Deus pulsa por justiça, e o nosso precisa pulsar no mesmo ritmo. Frases para reflexão — A fé que não reparte não transforma — apenas adormece. — A injustiça não é invisível para Deus; ela clama, e Ele ouve. — Viver o Evangelho é amar o pobre não como projeto, mas como irmão.</p>
     </section>
     <section id="topico-42">
       <h2>O Poder na Igreja: Autoridade Espiritual e Riscos de Dominação</h2>
@@ -2158,13 +2095,7 @@
       <p>Sob esse ponto de vista, o abuso de poder na igreja não começa com gritos — começa com silêncios. Com decisões que não podem ser questionadas, com agendas pessoais travestidas de “visão espiritual”, com a canonização de um líder em detrimento da comunidade.</p>
       <p>Além disso, há um risco perigoso quando a figura do líder ocupa um lugar que deveria ser exclusivo de Cristo. Quando a voz do pastor se torna intocável, e o nome do líder é mais citado que o nome de Jesus, há idolatria no altar. E toda idolatria, cedo ou tarde, corrompe e destrói.</p>
       <p>Em contrapartida, a liderança saudável floresce na transparência, na prestação de contas e na capacidade de ouvir. Ela não se impõe pela força, mas conquista pela coerência entre vida e palavra. O verdadeiro líder não se alimenta da obediência cega, mas da confiança construída com verdade.</p>
-      <>A Igreja é do Cordeiro, não do homem Por outro lado, o povo de Deus precisa despertar para sua responsabilidade. O silêncio diante do abuso é cumplicidade. O aplauso ao excesso é reforço à tirania. Ser igreja é ser corpo, e um corpo saudável questiona, participa, edifica em conjunto. A autoridade existe para edificar, nunca para manipular. Sendo assim, é preciso lembrar: a Igreja não é plataforma de autopromoção. É lugar de serviço. O poder que se afasta da cruz se transforma em instrumento de dominação. E onde a cruz é deixada de lado, o Evangelho se desfaz em aparência.
-        <p>Frases para reflexão</p>
-        <ol>
-          <li> Toda autoridade que não se curva diante da cruz será curvada pela dor. </li>
-          <li> O verdadeiro poder no Reino não se exibe — serve em silêncio. </li>
-          <li> Quando um líder deixa de ouvir, começa a perder a capacidade de guiar.</li>
-        </ol>
+      <p>A Igreja é do Cordeiro, não do homem Por outro lado, o povo de Deus precisa despertar para sua responsabilidade. O silêncio diante do abuso é cumplicidade. O aplauso ao excesso é reforço à tirania. Ser igreja é ser corpo, e um corpo saudável questiona, participa, edifica em conjunto. A autoridade existe para edificar, nunca para manipular. Sendo assim, é preciso lembrar: a Igreja não é plataforma de autopromoção. É lugar de serviço. O poder que se afasta da cruz se transforma em instrumento de dominação. E onde a cruz é deixada de lado, o Evangelho se desfaz em aparência. Frases para reflexão — Toda autoridade que não se curva diante da cruz será curvada pela dor. — O verdadeiro poder no Reino não se exibe — serve em silêncio. — Quando um líder deixa de ouvir, começa a perder a capacidade de guiar.</p>
     </section>
     <section id="topico-43">
       <h2>A Mulher no Cristianismo: Igualdade, Chamado e Limites Bíblicos</h2>
@@ -2175,22 +2106,23 @@
       <p>Em contrapartida, a mulher é chamada a exercer com plenitude seus dons, ministérios e vocações dentro daquilo que Deus estabeleceu. Ensinar, discipular, aconselhar, liderar áreas estratégicas, servir com sabedoria e compaixão: tudo isso é parte do seu chamado. A submissão bíblica não anula a identidade — ela a ancora em Deus. Não é ausência de voz, mas sabedoria para usá-la no tempo certo e na medida certa. É força rendida ao propósito, não sinal de fraqueza. Quem se submete por fé, e não por medo, revela maturidade espiritual e confiança no cuidado divino. A igreja que valoriza a mulher, reflete Cristo Por isso, a igreja que honra a mulher reflete o caráter de Cristo. Ele não a silenciou — Ele a escutou. Não a reduziu — Ele a elevou. Em vez de mantê-la distante, deu-lhe lugar no coração da missão. Onde Cristo está presente, mulheres não são oprimidas — são despertadas para viver com verdade, coragem e beleza.</p>
       <p>Sendo assim, a mulher cristã não precisa se masculinizar para ser relevante, nem se apagar para ser respeitada. Basta que ela caminhe no centro da vontade de Deus, com firmeza, reverência e ousadia. O Reino precisa de Déboras e de Priscilas. Precisa de mulheres que ouvem a voz de Deus e vivem de forma coerente com a verdade.</p>
       <p>Frases para reflexão</p>
-      <ol class="reflection-questions">
-        <li>A mulher foi criada à imagem de Deus, não à sombra do homem.</li>
-        <li>Chamado não se define por gênero, mas se orienta pela Palavra.</li>
-        <li>Onde a mulher é calada injustamente, o Corpo de Cristo perde uma voz necessária.</li>
-      </ol>
+      <p>— A mulher foi criada à imagem de Deus, não à sombra do homem. — Chamado não se define por gênero, mas se orienta pela Palavra. — Onde a mulher é calada injustamente, o Corpo de Cristo perde uma voz necessária.</p>
     </section>
     <section id="topico-44">
       <h2>Feminismo: A Voz da Mulher e a Visão Bíblica do Valor Feminino</h2>
-      <p>Um Tema que Divide: Ideologia ou Justiça? O feminismo, em suas diversas ondas, tem buscado igualdade de direitos entre homens e mulheres. Contudo, ao longo da história, assumiu faces distintas: algumas legítimas, ligadas à justiça, outras radicais e incompatíveis com a fé cristã. É necessário, portanto, discernir. O desafio está em não cair nos extremos — nem no machismo opressor, nem no feminismo ideológico que nega o plano divino. A Escritura é clara: “Criou Deus o homem à sua imagem, à imagem de Deus o criou; homem e mulher os criou” (Gênesis 1:27). Isso significa que homem e mulher são diferentes, mas igualmente dignos e necessários no propósito eterno de Deus. A Dignidade Feminina na Bíblia A Palavra de Deus foi revolucionária em sua época ao valorizar mulheres em contextos onde eram invisibilizadas: Sara, Débora, Rute, Ester e Ana exerceram influência decisiva. Maria foi escolhida para um papel central no plano da salvação. Jesus, em sua prática, quebrou paradigmas ao dialogar com mulheres, curá-las, incluí-las — algo escandaloso no contexto cultural. E, por fim, foram elas as primeiras testemunhas da ressurreição (Lucas 24). O apóstolo Paulo reafirma essa verdade: “Em Cristo não há judeu nem grego, escravo nem livre, homem nem mulher; pois todos são um em Cristo Jesus” (Gálatas 3:28). Em Cristo, a dignidade da mulher é restaurada, sem a anulação das diferenças. O Papel da Mulher: Complementaridade, Não Inferioridade Na perspectiva bíblica, os papéis no lar e na igreja são complementares. Isso não estabelece inferioridade, mas aponta para funções distintas no plano divino. “Mulheres, sujeitem-se a seus maridos, como ao Senhor... Maridos, amem suas esposas, como Cristo amou a igreja” (Efésios 5:22-25). A sujeição bíblica não é subjugação, mas atitude voluntária, equilibrada pelo amor sacrificial do marido. O princípio da liderança masculina é funcional, nunca de valor pessoal. O Perigo do Feminismo Radical Enquanto o feminismo bíblico resgata a dignidade à luz das Escrituras, o feminismo radical promove distorções: a misandria (ódio aos homens), a negação da maternidade como vocação honrosa, a liberdade sexual sem compromisso e a desconstrução da família natural. O apóstolo Paulo adverte: “E não vos conformeis com este mundo, mas transformai-vos pela renovação da vossa mente...” (Romanos 12:2). A igreja deve ouvir as dores das mulheres, reconhecer falhas históricas, mas não abraçar padrões seculares que distorcem a vontade de Deus. Como a Igreja Deve Responder O caminho bíblico é claro:  Promover espaços em que mulheres ensinem, liderem e sirvam de acordo com a Palavra;  Valorizar o ministério feminino sem transgredir princípios bíblicos;  Proteger mulheres de abusos em qualquer esfera;  Formar meninas e mulheres com identidade enraizada em Cristo. “Enganosa é a graça, e vã, a formosura; mas a mulher que teme ao Senhor, essa será louvada” (Provérbios 31:30). O temor do Senhor continua sendo o maior adorno da mulher cristã. Conclusão: O Valor Inquestionável da Mulher no Reino de Deus A verdadeira revolução da mulher não começou no século XX, mas na cruz. Foi ali que Cristo reafirmou o valor de cada ser humano, sem distinção de gênero. A mulher não precisa lutar por poder — já possui um lugar de honra no Reino como filha, herdeira e serva fiel. “...tratando-as com honra, como parte mais frágil e coerdeiras da graça da vida...” (1 Pedro 3:7). Assim, a igreja deve combater a opressão sem confundir libertação com rebelião, exaltando o valor da mulher sem negar a beleza de seu papel como parte essencial do plano de Deus.</p>
-      <p>Perguntas para Reflexão e Aplicação:</p>
-    <ol class="reflection-questions">
-      <li>Como sua igreja valoriza e capacita as mulheres para servir a Deus plenamente?</li>
-      <li>Você consegue discernir as diferenças entre feminismo bíblico e ideológico?</li>
-      <li>Sua comunidade está disposta a rever estruturas injustas sem abrir mão de princípios eternos?</li>
-    </ul>
-  </section>
+    </section>
+    <section>
+      <h3>Um Tema que Divide: Ideologia ou Justiça? O feminismo, em suas diversas ondas, tem buscado igualdade de direitos entre homens e mulheres. Contudo, ao longo da história, assumiu faces distintas: algumas legítimas, ligadas à justiça, outras radicais e incompatíveis com a fé cristã. É necessário, portanto, discernir. O desafio está em não cair nos extremos — nem no machismo opressor, nem no feminismo ideológico que nega o plano divino. A Escritura é clara: “Criou Deus o homem à sua imagem, à imagem de Deus o criou; homem e mulher os criou” (Gênesis 1:27). Isso significa que homem e mulher são diferentes, mas igualmente dignos e necessários no propósito eterno de Deus. A Dignidade Feminina na Bíblia A Palavra de Deus foi revolucionária em sua época ao valorizar mulheres em contextos onde eram invisibilizadas: Sara, Débora, Rute, Ester e Ana exerceram influência decisiva. Maria foi escolhida para um papel central no plano da salvação. Jesus, em sua prática, quebrou paradigmas ao dialogar com mulheres, curá-las, incluí-las — algo escandaloso no contexto cultural. E, por fim, foram elas as primeiras testemunhas da ressurreição (Lucas 24). O apóstolo Paulo reafirma essa verdade: “Em Cristo não há judeu nem grego, escravo nem livre, homem nem mulher; pois todos são um em Cristo Jesus” (Gálatas 3:28). Em Cristo, a dignidade da mulher é restaurada, sem a anulação das diferenças. O Papel da Mulher: Complementaridade, Não Inferioridade Na perspectiva bíblica, os papéis no lar e na igreja são complementares. Isso não estabelece inferioridade, mas aponta para funções distintas no plano divino. “Mulheres, sujeitem-se a seus maridos, como ao Senhor... Maridos, amem suas esposas, como Cristo amou a igreja” (Efésios 5:22-25). A sujeição bíblica não é subjugação, mas atitude voluntária, equilibrada pelo amor sacrificial do marido. O princípio da liderança masculina é funcional, nunca de valor pessoal. O Perigo do Feminismo Radical Enquanto o feminismo bíblico resgata a dignidade à luz das Escrituras, o feminismo radical promove distorções: a misandria (ódio aos homens), a negação da maternidade como vocação honrosa, a liberdade sexual sem compromisso e a desconstrução da família natural. O apóstolo Paulo adverte: “E não vos conformeis com este mundo, mas transformai-vos pela renovação da vossa mente...” (Romanos 12:2). A igreja deve ouvir as dores das mulheres, reconhecer falhas históricas, mas não abraçar padrões seculares que distorcem a vontade de Deus. Como a Igreja Deve Responder O caminho bíblico é claro:  Promover espaços em que mulheres ensinem, liderem e sirvam de acordo com a Palavra;  Valorizar o ministério feminino sem transgredir princípios bíblicos;  Proteger mulheres de abusos em qualquer esfera;  Formar meninas e mulheres com identidade enraizada em Cristo. “Enganosa é a graça, e vã, a formosura; mas a mulher que teme ao Senhor, essa será louvada” (Provérbios 31:30). O temor do Senhor continua sendo o maior adorno da mulher cristã. Conclusão: O Valor Inquestionável da Mulher no Reino de Deus A verdadeira revolução da mulher não começou no século XX, mas na cruz. Foi ali que Cristo reafirmou o valor de cada ser humano, sem distinção de gênero. A mulher não precisa lutar por poder — já possui um lugar de honra no Reino como filha, herdeira e serva fiel. “...tratando-as com honra, como parte mais frágil e coerdeiras da graça da vida...” (1 Pedro 3:7). Assim, a igreja deve combater a opressão sem confundir libertação com rebelião, exaltando o valor da mulher sem negar a beleza de seu papel como parte essencial do plano de Deus. Perguntas para Reflexão e Aplicação:</h3>
+    </section>
+    <section>
+      <h3>Como sua igreja valoriza e capacita as mulheres para servir a Deus plenamente?</h3>
+    </section>
+    <section>
+      <h3>Você consegue discernir as diferenças entre feminismo bíblico e ideológico?</h3>
+    </section>
+    <section>
+      <h3>Sua comunidade está disposta a rever estruturas injustas sem abrir mão de princípios eternos?</h3>
+    </section>
     <section id="topico-45">
       <h2>Evolucionismo e Big Bang: fé cristã e ciência em diálogo</h2>
       <p>A ideia de que fé e ciência são inimigas ganhou força recente. Não resiste à história nem à boa teologia. Muitos gigantes da ciência — Isaac Newton, Blaise Pascal, Johannes Kepler, Louis Pasteur — cultivaram uma fé viva enquanto investigavam a ordem do mundo. O embate verdadeiro não é</p>
@@ -2201,12 +2133,7 @@
       <p>Os extremos atrapalham o diálogo. Um fundamentalismo anticientífico mina o testemunho diante de mentes atentas; o cientificismo naturalista elimina Deus por pressuposição, não por evidência. O caminho bíblico pede humildade e verdade: toda verdade procede de Deus, seja revelada nas Escrituras, seja descoberta na criação.</p>
       <p>No fim, não falamos de acaso cego, mas de autoria. O conflito real não opõe Gênesis à física, e sim cosmovisões: uma vê o universo como obra de um Criador pessoal; a outra, como produto do nada. Paulo escreve: “Os atributos</p>
       <p>invisíveis de Deus — seu eterno poder e sua divindade — são vistos claramente desde a criação do mundo, sendo percebidos por meio das coisas criadas” (Romanos 1:20). A criação aponta. Deus se deixa entrever. Cabe a nós ouvir, ler e responder com fé.</p>
-      <p>Para refletir e aplicar:</p> 
-      <ol class="reflection-questions">
-        <li>Como sua igreja acompanha jovens que vivem a tensão entre proveta e púlpito? </li>
-        <li>Você distingue ciência como método de ciência como filosofia? </li>
-        <li>Está pronto para explicar por que crê em Deus como Criador — com a Bíblia na mão, respeito pelo conhecimento e esperança no coração?</li>
-      </ol>
+      <p>Para refletir e aplicar: como sua igreja acompanha jovens que vivem a tensão entre proveta e púlpito? Você distingue ciência como método de ciência como filosofia? Está pronto para explicar por que crê em Deus como Criador — com a Bíblia na mão, respeito pelo conhecimento e esperança no coração?</p>
     </section>
     <section id="topico-46">
       <h2>Ateísmo e Secularismo - Resposta à Negação de Deus com Racionalidade e Fé Viva</h2>
@@ -2216,11 +2143,15 @@
       <p>Razões para Crer: Fé e Razão Não São Inimigas</p>
       <p>A fé cristã é histórica, pois se apoia na ressurreição de Jesus; é racional, pois é coerente com a lógica e com a moral; é experiencial, porque transforma vidas; e é profética, oferecendo esperança eterna. Deus mesmo convida: “Vinde, pois, e arrazoemos” (Isaías 1:18). Logo, crer não é abandonar a razão, mas colocá-la em submissão à revelação de Deus. O Testemunho que Cala o Ceticismo Mais do que vencer debates intelectuais, a missão da igreja é testemunhar Cristo vivo. Jesus disse: “Assim brilhe também a vossa luz diante dos homens, para que vejam as vossas boas obras e glorifiquem a vosso Pai que está nos céus” (Mateus 5:16). Argumentos podem ser refutados; vidas transformadas, não. Conclusão: Fé Relevante em Tempos de Negação A igreja do século XXI precisa ser intelectualmente preparada e espiritualmente fervorosa. A fé não é ausência de evidências, mas resposta à revelação. Como Jesus afirmou a Tomé: “Bem-aventurados os que não viram e creram” (João 20:29). Se o ateísmo declara que “Deus está morto”, o cristão proclama com convicção: Cristo vive — e reina para sempre!</p>
       <p>Perguntas para reflexão e aplicação</p>
-    <ol class="reflection-questions">
-      <li>Sei explicar minha fé a um amigo que não crê?</li>
-      <li>Tenho buscado estudar a Palavra e as razões da minha esperança?</li>
-      <li>Minha vida é uma evidência viva da presença de Cristo no mundo?</li>
-    </ul>
+    </section>
+    <section>
+      <h3>Sei explicar minha fé a um amigo que não crê?</h3>
+    </section>
+    <section>
+      <h3>Tenho buscado estudar a Palavra e as razões da minha esperança?</h3>
+    </section>
+    <section>
+      <h3>Minha vida é uma evidência viva da presença de Cristo no mundo?</h3>
     </section>
     <section id="topico-47">
       <h2>Capitalismo, Consumo e Pobreza: Fé, Justiça e Generosidade</h2>
@@ -2231,11 +2162,15 @@
       <p>Trabalho, Dignidade e Provisão A Escritura valoriza o trabalho honesto e a administração sábia, mas também ensina que a bênção de Deus não está apenas no acúmulo, e sim na fidelidade e na disposição de repartir. Paulo exorta: “O que furtava, não furte mais; antes trabalhe, fazendo com as próprias mãos o que é bom, para que tenha o que repartir com o que tem necessidade” (Efésios 4:28). O trabalho não</p>
       <p>é apenas fonte de sustento; é oportunidade de abençoar vidas. Conclusão: Justiça, Generosidade e Esperança no Reino O cristianismo não propõe um sistema econômico fechado, mas apresenta uma ética do Reino que confronta tanto a ganância quanto a indiferença. Nela, o rico é chamado a compartilhar, o pobre é acolhido com dignidade e a igreja se torna sal e luz em uma sociedade marcada por desigualdade. Paulo instrui: “Aos ricos deste mundo ordena que não sejam orgulhosos, nem depositem a sua esperança na instabilidade da riqueza, mas em Deus, que tudo nos proporciona ricamente para nosso aprazimento; que pratiquem o bem, sejam ricos em boas obras, generosos em dar e prontos a repartir” (1 Timóteo 6:17-19). O problema não é possuir riqueza, mas ser possuído por ela. Não há conflito entre prosperidade e santidade — mas há distância infinita entre fidelidade e ganância.</p>
       <p>Perguntas para reflexão e aplicação</p>
-    <ol class="reflection-questions">
-      <li>Você serve ao Reino com suas finanças ou permite que sua vida sirva às finanças?</li>
-      <li>Sua comunidade de fé acolhe os pobres como irmãos ou reproduz padrões de elitismo social?</li>
-      <li>Seu consumo diário é guiado pela necessidade e pela simplicidade ou pelo desejo de status e ostentação?</li>
-    </ul>
+    </section>
+    <section>
+      <h3>Você serve ao Reino com suas finanças ou permite que sua vida sirva às finanças?</h3>
+    </section>
+    <section>
+      <h3>Sua comunidade de fé acolhe os pobres como irmãos ou reproduz padrões de elitismo social?</h3>
+    </section>
+    <section>
+      <h3>Seu consumo diário é guiado pela necessidade e pela simplicidade ou pelo desejo de status e ostentação?</h3>
     </section>
     <section id="topico-48">
       <h2>Legalização das Drogas: liberdade ou autodestruição?</h2>
@@ -2249,11 +2184,15 @@
       <p>A responsabilidade da igreja: restaurar, não conformar A igreja não pode normalizar a banalização do vício. Seu chamado é acolher os dependentes com graça, oferecer discipulado e restauração, ensinar sobre o domínio próprio e denunciar políticas que mascaram destruição com roupagem de liberdade. Paulo escreveu: “Para a liberdade foi que Cristo nos libertou. Permanecei, pois, firmes e não vos submetais, de novo, a jugo de escravidão” (Gálatas 5:1). A verdadeira liberdade não é o direito de se autodestruir, mas a capacidade de obedecer a Deus e viver de modo pleno.</p>
       <p>Conclusão: entre a cruz e o cigarro de maconha A discussão sobre drogas não é apenas política pública, mas cosmovisão. A questão central não é “É permitido?”, mas “Isto glorifica a Deus?”. O apóstolo Paulo escreveu: “Todas as coisas são lícitas, mas nem todas convêm; todas são lícitas, mas nem todas edificam” (1 Coríntios 10:23). A igreja é chamada a proclamar sobriedade, consciência e redenção em meio a uma geração que foge para anestesiar a dor. Cristo oferece um prazer que nenhum entorpecente pode igualar: a plenitude da vida no Espírito.</p>
       <p>Perguntas para reflexão e aplicação</p>
-    <ol class="reflection-questions">
-      <li>De que forma sua comunidade enxerga e acolhe os dependentes químicos: com o peso do julgamento ou com a graça da compaixão?</li>
-      <li>Sua fé o tem dado firmeza para dizer “não” ao que a cultura já normalizou como “sim”?</li>
-      <li>Você está disposto a ser uma voz de esperança em meio a um mundo que prefere anestesiar a dor com fugas e evasões?</li>
-    </ul>
+    </section>
+    <section>
+      <h3>De que forma sua comunidade enxerga e acolhe os dependentes químicos: com o peso do julgamento ou com a graça da compaixão?</h3>
+    </section>
+    <section>
+      <h3>Sua fé o tem dado firmeza para dizer “não” ao que a cultura já normalizou como “sim”?</h3>
+    </section>
+    <section>
+      <h3>Você está disposto a ser uma voz de esperança em meio a um mundo que prefere anestesiar a dor com fugas e evasões?</h3>
     </section>
     <section id="topico-49">
       <h2>Guerra, Violência e Paz: o cristianismo em tempos de conflito</h2>
@@ -2267,11 +2206,15 @@
       <p>A igreja como refúgio em tempos de conflito Quando a guerra chega, a igreja é chamada a ser abrigo para os feridos, voz profética contra a injustiça e exemplo de reconciliação. Mais do que tomar lados políticos, sua missão é proclamar o Príncipe da Paz. Paulo lembra: “Porque ele é a nossa paz, o qual de ambos fez um; e, tendo derrubado a parede de separação, desfez a inimizade” (Efésios 2:14). A verdadeira vitória não se conquista nos campos de batalha, mas na cruz do Calvário. Conclusão: o Reino que vence pela paz</p>
       <p>O cristão não ignora a realidade da guerra, mas também não se deixa dominar pela lógica da vingança. Ele crê no Reino vindouro, quando “não se aprenderá mais a guerra” (Isaías 2:4). Enquanto isso, é chamado a ser embaixador da paz, lembrando que sua luta é espiritual: “As armas da nossa milícia não são carnais, mas poderosas em Deus para destruir fortalezas” (2 Coríntios 10:4).</p>
       <p>Perguntas para reflexão e aplicação</p>
-    <ol class="reflection-questions">
-      <li>Você tem cultivado paz interior mesmo quando o ambiente externo é de conflito?</li>
-      <li>Sua igreja intercede pelos que sofrem em regiões marcadas por guerra e perseguição?</li>
-      <li>Você está disposto a ser pacificador em tempos de ódio e polarização?</li>
-    </ul>
+    </section>
+    <section>
+      <h3>Você tem cultivado paz interior mesmo quando o ambiente externo é de conflito?</h3>
+    </section>
+    <section>
+      <h3>Sua igreja intercede pelos que sofrem em regiões marcadas por guerra e perseguição?</h3>
+    </section>
+    <section>
+      <h3>Você está disposto a ser pacificador em tempos de ódio e polarização?</h3>
     </section>
     <section id="topico-50">
       <h2>Ditadura: a igreja e os regimes autoritários</h2>
@@ -2283,11 +2226,15 @@
       <p>Mesmo em democracias, sinais de autoritarismo ressurgem em forma de censura velada, populismo agressivo, perseguição ideológica e intolerância religiosa. Cabe à igreja discernir os tempos, interceder pelas autoridades sem idolatrá-las, formar líderes conscientes e manter sua voz profética contra abusos de poder. O livro de Provérbios orienta: “Abre a tua boca a favor do mudo, pelo direito de todos os que se acham desamparados. Abre a tua boca, julga retamente, e faze justiça aos pobres e aos necessitados” (Provérbios 31:8 -9). Conclusão: igreja livre, consciência cativa de Cristo</p>
       <p>A igreja precisa permanecer livre para servir a Deus e cativa apenas à voz de Cristo. Sempre que governos tentam impor silêncio, exigir adoração ou exigir conivência, o chamado da igreja é permanecer como testemunha fiel do Reino cujo trono tem por base a justiça (Salmo 89:14). O autor de Hebreus recorda: “Lembrem-se dos que estão presos, como se estivessem presos com eles; e dos que sofrem maus-tratos, como se vocês mesmos estivessem sofrendo no corpo” (Hebreus 13:3). A fidelidade em tempos de autoritarismo é mais do que resistência política — é obediência espiritual.</p>
       <p>Perguntas para reflexão e aplicação</p>
-    <ol class="reflection-questions">
-      <li>Como a igreja pode equilibrar respeito às autoridades com postura profética diante da injustiça?</li>
-      <li>Em quais situações sua comunidade tem sido desafiada a se posicionar contra tendências autoritárias?</li>
-      <li>De que forma sua igreja pode formar líderes conscientes, éticos e bíblicos para o serviço público?</li>
-    </ul>
+    </section>
+    <section>
+      <h3>Como a igreja pode equilibrar respeito às autoridades com postura profética diante da injustiça?</h3>
+    </section>
+    <section>
+      <h3>Em quais situações sua comunidade tem sido desafiada a se posicionar contra tendências autoritárias?</h3>
+    </section>
+    <section>
+      <h3>De que forma sua igreja pode formar líderes conscientes, éticos e bíblicos para o serviço público?</h3>
     </section>
     <section id="topico-51">
       <h2>Política e Religião: fé pública com responsabilidade bíblica</h2>
@@ -2302,11 +2249,15 @@
       <p>Conclusão: o Reino de Deus informa a cidadania A fé cristã deve gerar cidadãos éticos, agentes de transformação que atuam na política sem transformar o evangelho em ideologia. A igreja precisa ensinar princípios que formem líderes íntegros, que amem a justiça e rejeitem a corrupção — tanto nos púlpitos quanto nos parlamentos. Jesus declarou: “Vós sois o sal da terra... Vós sois a luz do mundo... Assim brilhe a vossa luz diante dos homens, para que vejam as vossas boas obras e glorifiquem a vosso Pai</p>
       <p>que está nos céus” (Mateus 5:13-16). O cristão, portanto, não se isenta da vida pública, mas a transforma com os valores do Reino eterno.</p>
       <p>Perguntas para reflexão e aplicação</p>
-    <ol class="reflection-questions">
-      <li>Como a sua igreja tem orientado os membros sobre a responsabilidade política à luz das Escrituras?</li>
-      <li>Sua fé tem moldado sua visão de justiça e governo, ou é sua ideologia política que tem moldado sua fé?</li>
-      <li>Que tipo de cidadão sua comunidade de fé está formando para a cidade, para a nação e para o Reino de Deus?</li>
-    </ul>
+    </section>
+    <section>
+      <h3>Como a sua igreja tem orientado os membros sobre a responsabilidade política à luz das Escrituras?</h3>
+    </section>
+    <section>
+      <h3>Sua fé tem moldado sua visão de justiça e governo, ou é sua ideologia política que tem moldado sua fé?</h3>
+    </section>
+    <section>
+      <h3>Que tipo de cidadão sua comunidade de fé está formando para a cidade, para a nação e para o Reino de Deus?</h3>
     </section>
     <section id="topico-52">
       <h2>Ideologia de Gênero: Confusão Cultural e a Verdade do Criador</h2>
@@ -2317,11 +2268,15 @@
       <p>Amor sem cumplicidade, verdade sem crueldade A resposta cristã diante dessa agenda não deve ser marcada por ódio ou zombaria, mas por clareza teológica e compaixão pastoral. É possível amar sem aprovar, acolher sem concordar, ouvir sem se omitir. A exortação bíblica é clara: “Antes, seguindo a verdade em amor, cresçamos em tudo naquele que é a cabeça, Cristo” (Efésios 4:15). Amar não significa aceitar a mentira, mas conduzir à verdade com ternura e firmeza. A influência na educação e na igreja Um dos campos mais atingidos pela ideologia de gênero é a educação infantil. Projetos, livros e desenhos animados já transmitem a ideia de que a criança pode “ser o que quiser” em termos de identidade de gênero. Além disso, há pressões para que setores religiosos adotem uma teologia inclusiva que nega a criação bíblica. O apóstolo Paulo denuncia: “Trocaram a verdade de Deus pela mentira... Por isso Deus os entregou a paixões vergonhosas” (Romanos 1:25-26). Diante disso, a igreja deve instruir pais e filhos, ensinar com clareza e permanecer firme sem ceder ao espírito da época.</p>
       <p>A identidade em Cristo é o antídoto Muitas crises identitárias brotam de feridas, abusos, rejeições ou pressões culturais. A resposta não está em moldar o corpo ao desejo, mas em permitir que Cristo molde o coração. O evangelho oferece uma identidade muito mais profunda do que gênero: a identidade eterna de filho ou filha de Deus. Paulo afirma: “Se alguém está em Cristo, é nova criatura. As coisas antigas já passaram; eis que tudo se fez novo” (2 Coríntios 5:17). Somente em Cristo o ser humano encontra cura para o eu fragmentado e restauração plena de sua dignidade. Conclusão: fé inabalável em meio à confusão A igreja é chamada a ser luz em meio à escuridão cultural. Não lutamos contra pessoas, mas contra ideologias que deturpam a verdade. Jesus declarou: “E conhecereis a verdade, e a verdade vos libertará” (João 8:32). A verdade bíblica sobre criação, corpo e identidade não pode ser negociada. Ela deve ser proclamada com amor, sustentada com coragem e vivida com compaixão. Essa é a missão de uma comunidade fiel ao Criador em tempos de confusão cultural.</p>
       <p>Perguntas para reflexão e aplicação</p>
-    <ol class="reflection-questions">
-      <li>Como sua igreja tem ensinado às novas gerações a verdade bíblica sobre criação, sexo e identidade?</li>
-      <li>Sua comunidade está preparada para acolher com graça aqueles que enfrentam crises identitárias sem abrir mão da verdade?</li>
-      <li>Você tem coragem de sustentar a verdade do Criador, mesmo quando ela se torna impopular na cultura?</li>
-    </ul>
+    </section>
+    <section>
+      <h3>Como sua igreja tem ensinado às novas gerações a verdade bíblica sobre criação, sexo e identidade?</h3>
+    </section>
+    <section>
+      <h3>Sua comunidade está preparada para acolher com graça aqueles que enfrentam crises identitárias sem abrir mão da verdade?</h3>
+    </section>
+    <section>
+      <h3>Você tem coragem de sustentar a verdade do Criador, mesmo quando ela se torna impopular na cultura?</h3>
     </section>
     <section id="topico-53">
       <h2>Cancelamento, Redes Sociais e a Cultura do Julgamento: Verdade, Misericórdia e Testemunho Cristão no Mundo Digital</h2>
@@ -2334,11 +2289,15 @@
       <p>de Cristo. Aquilo que publicamos, curtimos ou comentamos precisa refletir a mente de Jesus. Paulo orienta: “A vossa palavra seja sempre agradável, temperada com sal, para que saibais como responder a cada um” (Colossenses :6). Isso implica: não compartilhar sem verificar, não humilhar ao corrigir, evitar discussões tolas (2 Timóteo 2:23) e lembrar sempre que perfis digitais representam pessoas reais, com almas eternas. Perdão: O Que o Mundo Não Oferece, Mas Cristo Oferece A praça digital clama por justiça instantânea e fecha a porta para recomeços. O evangelho faz o caminho oposto: chama ao arrependimento, cura feridas, devolve dignidade. Paulo é direto: “Longe de vós toda amargura… antes, sede bondosos e compassivos, perdoando-vos uns aos outros, como também Deus vos perdoou em Cristo” (Efésios 4:31–32). Eis a contracultura cristã: dizer a verdade sem humilhar, corrigir sem expor, restaurar quem caiu. Onde o mundo cancela, a graça reconstrói. E é assim que a igreja testemunha o Cristo vivo—não com linchamentos, mas com perdão que transforma. Conclusão: A Luz Não Precisa Gritar — Precisa Brilhar</p>
       <p>O cristão não foi chamado para vencer debates, mas para manifestar o caráter de Cristo. “Assim brilhe também a vossa luz diante dos homens, para que vejam as vossas boas obras e glorifiquem a vosso Pai que está nos céus” (Mateus 5:16). A verdade sem amor endurece, o amor sem verdade ilude; juntos, transformam. Em um mundo digital marcado pela polarização e pelo julgamento impiedoso, não é o cancelamento que cura, mas a graça que restaura.</p>
       <p>Perguntas para reflexão e aplicação:</p>
-    <ol class="reflection-questions">
-      <li>Suas redes sociais têm sido usadas como ferramentas de edificação ou de julgamento?</li>
-      <li>Você já compartilhou algo injusto ou impiedoso? Está disposto a arrepender-se e corrigir isso?</li>
-      <li>Sua igreja tem preparado os membros para navegar no ambiente digital com discernimento bíblico e testemunho cristão?</li>
-    </ul>
+    </section>
+    <section>
+      <h3>Suas redes sociais têm sido usadas como ferramentas de edificação ou de julgamento?</h3>
+    </section>
+    <section>
+      <h3>Você já compartilhou algo injusto ou impiedoso? Está disposto a arrepender-se e corrigir isso?</h3>
+    </section>
+    <section>
+      <h3>Sua igreja tem preparado os membros para navegar no ambiente digital com discernimento bíblico e testemunho cristão?</h3>
     </section>
     <section id="topico-54">
       <h2>Tecnologia, Redes Sociais e Espiritualidade: Distrações ou Ferramentas para a Missão?</h2>
@@ -2352,11 +2311,15 @@
       <p>Assim, a espiritualidade robusta que precisamos cultivar não foge do mundo digital, mas também não se rende a ele. Ela é crítica, lúcida, centrada em Cristo, capaz de discernir o que edifica e rejeitar o que adoece. Ser luz nas</p>
       <p>telas é ser luz também fora delas, lembrando sempre que a missão não é autopromoção, mas proclamação do Reino.</p>
       <p>Perguntas para reflexão e aplicação:</p>
-    <ol class="reflection-questions">
-      <li>Sua vida digital tem refletido o caráter de Cristo ou apenas as tendências do mundo?</li>
-      <li>Você já experimentou um “jejum digital” para priorizar a comunhão com Deus?</li>
-      <li>Sua igreja tem usado a tecnologia como ferramenta de missão ou como vitrine de autopromoção?</li>
-    </ul>
+    </section>
+    <section>
+      <h3>Sua vida digital tem refletido o caráter de Cristo ou apenas as tendências do mundo?</h3>
+    </section>
+    <section>
+      <h3>Você já experimentou um “jejum digital” para priorizar a comunhão com Deus?</h3>
+    </section>
+    <section>
+      <h3>Sua igreja tem usado a tecnologia como ferramenta de missão ou como vitrine de autopromoção?</h3>
     </section>
     <section id="topico-55">
       <h2>Nova Configuração Familiar: Como Lidar com Lares Não Tradicionais à Luz da Graça e da Verdade</h2>
@@ -2365,13 +2328,16 @@
       <p>Nesse cenário, a igreja deve ser menos tribunal e mais hospital. Paulo lembra aos coríntios: “E é o que alguns de vocês eram. Mas vocês foram</p>
       <p>lavados, foram santificados, foram justificados em nome do Senhor Jesus Cristo e no Espírito do nosso Deus” (1 Coríntios 6:11). O mesmo Deus que regenerou pessoas com passados marcados pelo pecado pode regenerar famílias desestruturadas. A comunidade de fé deve acolher com amor, escutar com paciência e discipular com firmeza.</p>
       <p>O desafio pastoral, porém, é não confundir amor com cumplicidade. Efésios 4:15 nos orienta a “seguir a verdade em amor”. Isso significa que lares em pecado não podem ser ignorados, mas devem ser evangelizados; famílias diferentes não podem ser rejeitadas, mas precisam de discipulado; crianças que crescem em arranjos fora do padrão bíblico não devem ser discriminadas, mas amadas e formadas na fé.</p>
-      <p>A boa notícia é que o evangelho redefine a família. Em Cristo, há recomeço para casamentos em ruínas, esperança para filhos em contextos desafiadores e dignidade para os que carregam marcas de fracassos. Paulo afirma: “Assim, já não sois estrangeiros nem forasteiros, mas concidadãos dos santos e membros da família de Deus” (Efésios 2:19). Há uma família maior — a de Deus — onde todos os que creem encontram pertencimento. A missão da igreja é proclamar o ideal sem arrogância e acolher a realidade sem omissão. “Deus faz que o solitário more em família” (Salmo :6), e essa promessa é para todos os que desejam ser restaurados.</p>
-      <p>Perguntas para reflexão e aplicação</p>
-    <ol class="reflection-questions">
-      <li>Minha igreja trata famílias não tradicionais apenas com julgamento, ou oferece acolhimento e discipulado?</li>
-      <li>Tenho conseguido comunicar o ideal bíblico com firmeza, sem desprezar quem ainda não vive essa realidade?</li>
-      <li>Estou disposto a me envolver no cuidado de famílias feridas, reconhecendo que o evangelho é poder de restauração para todos os lares?</li>
-    </ul>
+      <p>A boa notícia é que o evangelho redefine a família. Em Cristo, há recomeço para casamentos em ruínas, esperança para filhos em contextos desafiadores e dignidade para os que carregam marcas de fracassos. Paulo afirma: “Assim, já não sois estrangeiros nem forasteiros, mas concidadãos dos santos e membros da família de Deus” (Efésios 2:19). Há uma família maior — a de Deus — onde todos os que creem encontram pertencimento. A missão da igreja é proclamar o ideal sem arrogância e acolher a realidade sem omissão. “Deus faz que o solitário more em família” (Salmo :6), e essa promessa é para todos os que desejam ser restaurados. Perguntas para reflexão e aplicação</p>
+    </section>
+    <section>
+      <h3>Minha igreja trata famílias não tradicionais apenas com julgamento, ou oferece acolhimento e discipulado?</h3>
+    </section>
+    <section>
+      <h3>Tenho conseguido comunicar o ideal bíblico com firmeza, sem desprezar quem ainda não vive essa realidade?</h3>
+    </section>
+    <section>
+      <h3>Estou disposto a me envolver no cuidado de famílias feridas, reconhecendo que o evangelho é poder de restauração para todos os lares?</h3>
     </section>
     <section id="topico-56">
       <h2>Educação Sexual nas Escolas: A Igreja como Formadora de Consciência Crítica e Princípios</h2>
@@ -2384,11 +2350,15 @@
       <p>Tudo é visto conforme o que se acredita. A sexualidade malformada pode aprisionar, destruir e afastar da fé. Mas quando bem ensinada, torna-se</p>
       <p>expressão de santidade, fonte de alegria e parte do louvor ao Criador. Foi Jesus quem afirmou: “E conhecereis a verdade, e a verdade vos libertará” (João 8:32). Por isso, a igreja que ensina com coragem, escuta com graça e forma com firmeza prepara uma geração capaz de permanecer fiel em meio à confusão cultural.</p>
       <p>Perguntas para reflexão e aplicação</p>
-    <ol class="reflection-questions">
-      <li>Minha igreja tem se posicionado biblicamente sobre educação sexual ou apenas reagido às pressões externas?</li>
-      <li>Os pais da minha comunidade estão preparados para educar seus filhos nesse tema ou têm delegado essa missão ao mundo?</li>
-      <li>Que iniciativas práticas podemos criar para cultivar uma cultura de diálogo intergeracional, aliando firmeza doutrinária e acolhimento pastoral?</li>
-    </ul>
+    </section>
+    <section>
+      <h3>Minha igreja tem se posicionado biblicamente sobre educação sexual ou apenas reagido às pressões externas?</h3>
+    </section>
+    <section>
+      <h3>Os pais da minha comunidade estão preparados para educar seus filhos nesse tema ou têm delegado essa missão ao mundo?</h3>
+    </section>
+    <section>
+      <h3>Que iniciativas práticas podemos criar para cultivar uma cultura de diálogo intergeracional, aliando firmeza doutrinária e acolhimento pastoral?</h3>
     </section>
     <section id="topico-57">
       <h2>Liberdade de Expressão e Intolerância Religiosa: O Cristianismo em Sociedades Plurais</h2>
@@ -2400,22 +2370,30 @@
       <p>Tolerância Verdadeira: Amar Sem Negar a Verdade Ser tolerante não significa endossar tudo. Significa respeitar pessoas sem negociar princípios. Cristãos devem ser os primeiros a defender o direito de expressão até dos que discordam da fé, porque a verdade bíblica não teme o debate honesto. Pedro orienta: “Estai sempre preparados para responder com mansidão e temor a qualquer que vos pedir razão da esperança que há em vós” (1 Pedro 3:15). Responder com mansidão não é sinônimo de silêncio, mas de firmeza temperada com amor.</p>
       <p>Conclusão: Testemunhas da Verdade, Até o Fim Liberdade de expressão pode ser restringida por regimes e culturas, mas a fidelidade do cristão jamais pode ser silenciada. A história da igreja está marcada por mártires que preferiram sofrer a negar a fé. Jesus promete: “Sê fiel até a morte, e dar-te-ei a coroa da vida” (Apocalipse 2:10). Em tempos de censura, somos chamados a resistir com sabedoria, humildade e firmeza, testemunhando que Cristo é a verdade que liberta.</p>
       <p>Perguntas para reflexão e aplicação</p>
-    <ol class="reflection-questions">
-      <li>Tenho coragem de defender a minha fé em ambientes hostis, mesmo correndo riscos de rejeição?</li>
-      <li>Minha igreja prepara os membros para responder com amor e firmeza diante da cultura?</li>
-      <li>Como posso usar a liberdade que ainda tenho para proclamar o evangelho com ousadia e compaixão?</li>
-    </ul>
+    </section>
+    <section>
+      <h3>Tenho coragem de defender a minha fé em ambientes hostis, mesmo correndo riscos de rejeição?</h3>
+    </section>
+    <section>
+      <h3>Minha igreja prepara os membros para responder com amor e firmeza diante da cultura?</h3>
+    </section>
+    <section>
+      <h3>Como posso usar a liberdade que ainda tenho para proclamar o evangelho com ousadia e compaixão?</h3>
     </section>
     <section id="topico-58">
       <h2>Ecologia e Criação: O Chamado Cristão para Cuidar da Terra</h2>
       <p>A criação não é posse do homem, mas obra do Senhor. O salmista declara: “Ao Senhor pertence a terra e tudo o que nela se contém, o mundo e os que nele habitam” (Salmo 24:1). Negligenciar a criação é desonrar o Criador; preservá-la é reconhecer Sua glória em cada detalhe da natureza. O mundo, que muitos tratam como recurso descartável, é, na verdade, herança confiada ao ser humano como mordomo e não como dono. Desde o Éden, Deus estabeleceu o mandato de cultivar e guardar. A Palavra registra: “O Senhor Deus tomou o homem e o colocou no jardim do Éden para o cultivar e o guardar” (Gênesis 2:15). Essa ordem contém equilíbrio: produzir sem destruir, trabalhar sem devastar. O pecado, porém, distorceu essa vocação. O que deveria ser cuidado passou a ser explorado, e a terra, em vez de jardim, tornou-se muitas vezes um campo de abuso e descuido. Paulo nos lembra que a criação também sofre os efeitos dessa queda: “Sabemos que toda a criação geme e suporta angústias até agora... aguardando a redenção” (Romanos 8:22-23). A natureza não é um cenário neutro; ela geme pela restauração prometida em Cristo. Negligenciar a ecologia é fechar os olhos para uma dimensão do evangelho que abrange todas as coisas, inclusive o cosmos. Assim, teologia e ecologia não são rivais, mas aliadas. O cuidado ambiental não é um discurso político moderno, mas uma exigência da fé cristã. O livro de Provérbios ensina: “O justo cuida bem dos seus animais, mas até os atos mais bondosos dos ímpios são cruéis” (Provérbios 12:10). Isso significa que até mesmo pequenos gestos — não desperdiçar água, evitar consumo excessivo, descartar lixo corretamente — são parte do testemunho cristão. O evangelho nos torna cidadãos celestiais, mas também responsáveis pela terra onde vivemos.</p>
       <p>A esperança escatológica reforça esse compromisso. João testemunhou: “Vi novo céu e nova terra, pois o primeiro céu e a primeira terra passaram” (Apocalipse 21:1). A promessa não é de aniquilação, mas de renovação. Deus não abandonará a obra de Suas mãos, antes a purificará e glorificará. Assim, cuidar da criação é antecipar, em pequena escala, o Reino vindouro. No fim, o evangelho também é verde. Paulo escreveu sobre Cristo: “Pois nele foram criadas todas as coisas... e tudo subsiste por meio dele” (Colossenses 1:16-17). Isso nos lembra que não fomos salvos apenas do mundo, mas também para abençoar o mundo, inclusive o mundo natural. A espiritualidade madura não separa adoração de responsabilidade: quem ama o</p>
       <p>Criador, cuida da criação. Perguntas para reflexão e aplicação</p>
-    <ol class="reflection-questions">
-      <li>Você tem enxergado a natureza como criação sagrada de Deus ou apenas como um recurso descartável?</li>
-      <li>Suas práticas diárias — consumo, descarte, estilo de vida — refletem responsabilidade ecológica diante do Criador?</li>
-      <li>Sua igreja ensina e pratica o cuidado com a criação de forma bíblica, equilibrada e profética? Conclusão Ao chegarmos ao final deste estudo sobre as principais doutrinas bíblicas, somos levados a refletir sobre a importância de permanecermos firmes na verdade inabalável da Palavra de Deus. Em um tempo de tantas incertezas, relativismo e ataques à fé cristã, a Igreja de Cristo precisa estar fundamentada nas Escrituras, vivendo de forma coerente com os princípios do Reino de Deus. A doutrina não é um conhecimento meramente teórico, mas a base sobre a qual nossa fé se estrutura e nossa vida cristã se desenvolve. Não se trata de um assunto restrito a teólogos ou acadêmicos, mas de algo essencial para todo cristão que deseja conhecer a Deus, crescer espiritualmente e viver de maneira que O glorifique. Oséias 6:3 – &quot;Conheçamos e prossigamos em conhecer ao Senhor; como a alva, a sua vinda é certa.&quot; João 8:31-32 – &quot;Se vós permanecerdes na minha palavra, sois verdadeiramente meus discípulos; e conhecereis a verdade, e a verdade vos libertará.&quot;</li>
-    </ul>
+    </section>
+    <section>
+      <h3>Você tem enxergado a natureza como criação sagrada de Deus ou apenas como um recurso descartável?</h3>
+    </section>
+    <section>
+      <h3>Suas práticas diárias — consumo, descarte, estilo de vida — refletem responsabilidade ecológica diante do Criador?</h3>
+    </section>
+    <section>
+      <h3>Sua igreja ensina e pratica o cuidado com a criação de forma bíblica, equilibrada e profética? Conclusão Ao chegarmos ao final deste estudo sobre as principais doutrinas bíblicas, somos levados a refletir sobre a importância de permanecermos firmes na verdade inabalável da Palavra de Deus. Em um tempo de tantas incertezas, relativismo e ataques à fé cristã, a Igreja de Cristo precisa estar fundamentada nas Escrituras, vivendo de forma coerente com os princípios do Reino de Deus. A doutrina não é um conhecimento meramente teórico, mas a base sobre a qual nossa fé se estrutura e nossa vida cristã se desenvolve. Não se trata de um assunto restrito a teólogos ou acadêmicos, mas de algo essencial para todo cristão que deseja conhecer a Deus, crescer espiritualmente e viver de maneira que O glorifique. Oséias 6:3 – &quot;Conheçamos e prossigamos em conhecer ao Senhor; como a alva, a sua vinda é certa.&quot; João 8:31-32 – &quot;Se vós permanecerdes na minha palavra, sois verdadeiramente meus discípulos; e conhecereis a verdade, e a verdade vos libertará.&quot;</h3>
     </section>
   </main>
 

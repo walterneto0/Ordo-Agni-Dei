@@ -5,6 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Ordo Agni Dei</title>
     <link rel="stylesheet" href="styles/style.css">
+    <link rel="stylesheet" href="styles/home-content.css">
 </head>
 <body>
     
@@ -136,27 +137,7 @@
         </div>
     </footer>
 
-    <script>
-        const siteNav = document.getElementById("site-nav");
-        const backToTopButton = document.querySelector(".back-to-top");
-        let lastScrollY = window.scrollY;
-
-        const updateNavVisibility = () => {
-            const currentScrollY = window.scrollY;
-            const scrollingUp = currentScrollY < lastScrollY;
-            const nearTop = currentScrollY <= 24;
-
-            siteNav.classList.toggle("nav-visible", scrollingUp || nearTop);
-            lastScrollY = currentScrollY;
-        };
-
-        siteNav.classList.add("nav-visible");
-        window.addEventListener("scroll", updateNavVisibility, { passive: true });
-
-        backToTopButton?.addEventListener("click", () => {
-            window.scrollTo({ top: 0, behavior: "smooth" });
-        });
-    </script>
+    <script src="js/header-and-footer.js" defer></script>
     
 </body>
 </html>

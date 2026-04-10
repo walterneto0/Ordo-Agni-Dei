@@ -5,3 +5,93 @@
 img.logo-Igreja-Batista-Aldeia {
     width: 85px;
 }
+/* Estilos específicos para confissão-ibal */
+main {
+    max-width: 920px;
+    margin: 0 auto;
+    padding: 32px 24px 48px;
+}
+
+main h1,
+main h2,
+main h3 {
+    text-align: center;
+    line-height: 1.15;
+}
+
+main .texto-de-destaque {
+    margin: 18px auto 24px;
+    font-size: 1.1rem;
+    font-weight: 700;
+    letter-spacing: 0.03em;
+    text-align: center;
+    max-width: 760px;
+}
+
+main p,
+main ol,
+main li {
+    max-width: 840px;
+    margin-left: auto;
+    margin-right: auto;
+    line-height: 1.75;
+    letter-spacing: 0.01em;
+    font-size: 1rem;
+    color: #242424;
+}
+
+main p {
+    text-align: justify;
+}
+
+main nav p,
+main nav ol,
+main ol {
+    text-align: left;
+}
+
+main nav {
+    margin-top: 32px;
+}
+
+.sumario-link {
+    color: #1f1f1f;
+}
+
+main section {
+    margin-top: 32px;
+}
+
+main section article {
+    border: 1px solid rgba(216, 213, 205, 0.85);
+    border-radius: 18px;
+    box-shadow: 0 14px 34px rgba(0, 0, 0, 0.05);
+    padding: 26px 24px;
+    margin-top: 22px;
+}
+
+main .logo-Igreja-Batista-Aldeia {
+    display: block;
+    margin: 0 auto 28px;
+    max-width: 140px;
+}
+
+@media (max-width: 720px) {
+    main {
+        padding: 24px 16px 36px;
+    }
+
+    main p,
+    main ol,
+    main li {
+        max-width: 100%;
+    }
+
+    main .texto-de-destaque {
+        padding: 0 4px;
+    }
+
+    main section article {
+        padding: 20px 18px;
+    }
+}

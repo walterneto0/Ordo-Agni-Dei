@@ -99,13 +99,6 @@ body {
     line-height: 1;
 }
 
-main {
-    width: 100%;
-    max-width: 960px;
-    margin: 0 auto;
-    padding: 48px 24px 72px;
-}
-
 .site-footer {
     width: 100%;
     box-sizing: border-box;
@@ -195,101 +188,6 @@ main {
     color: #5e493d;
 }
 
-.hero {
-    padding: 56px 32px;
-    background: #fffdf8;
-    border: 1px solid #e8dcc5;
-    border-radius: 20px;
-    box-shadow: 0 18px 40px rgba(72, 48, 25, 0.08);
-}
-
-.library-grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
-    gap: 24px;
-    margin-top: 28px;
-    max-height: 520px;
-    overflow-y: auto;
-    padding-right: 4px;
-}
-
-.library-card {
-    display: flex;
-    flex-direction: column;
-    background: #fffdf8;
-    border-radius: 22px;
-    text-decoration: none;
-    color: inherit;
-    overflow: hidden;
-    box-shadow: 0 12px 28px rgba(68, 44, 18, 0.08);
-    transition: transform 0.2s ease, box-shadow 0.2s ease;
-}
-
-.library-card:hover,
-.library-card:focus-visible {
-    transform: translateY(-2px);
-    box-shadow: 0 18px 34px rgba(68, 44, 18, 0.14);
-}
-
-.card-image {
-    width: 100%;
-    height: 175px;
-    background: rgba(217, 204, 179, 0.35);
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    overflow: hidden;
-}
-
-.card-image img {
-    width: 100%;
-    height: 100%;
-    object-fit: cover;
-    display: block;
-    max-width: 100%;
-    max-height: 100%;
-}
-
-.card-text {
-    padding: 18px 16px;
-    text-align: center;
-}
-
-.card-text p {
-    margin: 0;
-    font-weight: 700;
-    letter-spacing: 0.04em;
-}
-
-.eyebrow {
-    margin-bottom: 10px;
-    color: #8d1111;
-    text-transform: uppercase;
-    letter-spacing: 0.14em;
-    font-size: 0.8rem;
-    font-weight: 700;
-}
-
-h1 {
-    margin: 0 0 16px;
-    font-size: clamp(2.2rem, 5vw, 4rem);
-    line-height: 1.05;
-}
-
-h2 { font-size: 1.75rem; line-height: 1.25; margin: 40px 0 16px; padding-top: 12px; border-top: 1px solid #d8cdb8; }
-
-h3 { font-size: 1.2rem; line-height: 1.25; margin: 28px 0 16px; }
-
-p { margin: 0 0 16px; }
-
-section { margin-top: 28px; }
-
-article { margin-top: 20px; padding: 20px; background: #fffdf8; border: 1px solid #e8dcc5; border-radius: 12px; }
-
-ol { margin: 12px 0 16px 22px; padding: 0; }
-
-li { margin-bottom: 8px; }
-
 @media (max-width: 720px) {
     .site-header {
         padding: 16px 18px;
@@ -313,14 +211,6 @@ li { margin-bottom: 8px; }
     .nav-link {
         flex: 0 0 auto;
         font-size: 0.82rem;
-    }
-
-    main {
-        padding: 36px 18px 60px;
-    }
-
-    .hero {
-        padding: 36px 22px;
     }
 
     .site-footer {
