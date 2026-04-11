@@ -57,7 +57,6 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
-    gap: 12px;
     padding: 12px 24px;
     background: linear-gradient(135deg, #6d0d0d, #a11212);
     border-bottom: 1px solid rgba(255, 235, 215, 0.28);
@@ -65,6 +64,37 @@ body {
     transform: translateY(-100%);
     opacity: 0;
     transition: transform 0.25s ease, opacity 0.25s ease;
+}
+
+.nav-links {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 12px;
+    justify-content: center;
+    flex: 1;
+    min-width: 0;
+}
+
+.nav-download {
+    margin-left: auto;
+}
+
+@media (max-width: 740px) {
+    .site-nav {
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+
+    .nav-links {
+        width: 100%;
+        justify-content: center;
+        order: 2;
+    }
+
+    .nav-download {
+        margin-left: 0;
+        order: 1;
+    }
 }
 
 .site-nav.nav-visible {
