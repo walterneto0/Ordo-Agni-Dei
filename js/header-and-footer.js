@@ -20,7 +20,8 @@ window.addEventListener("scroll", updateNavVisibility, { passive: true });
 
 backToTopButton?.addEventListener("click", (event) => {
     event.preventDefault();
-    document.querySelector("#titulo-da-confissao")?.scrollIntoView({ behavior: "smooth" });
+    const topTarget = document.querySelector("#titulo-da-confissao") || document.querySelector("#TOP") || document.documentElement;
+    topTarget?.scrollIntoView({ behavior: "smooth" });
 });
 
 backToBottomButton?.addEventListener("click", (event) => {
