@@ -8,19 +8,6 @@
   <link rel="stylesheet" href="../../../styles/style.css">
   <link rel="stylesheet" href="../../../styles/confissoes.css">
 
-  <style>
-    
-    .scripture-list {
-      display: grid;
-      grid-template-columns: 1fr 1fr;
-    }
-
-    .scripture-list p {
-      margin-left: 20%;
-    }
-
-  </style>
-
 </head>
 
 <body>
