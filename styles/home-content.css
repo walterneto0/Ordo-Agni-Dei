@@ -24,7 +24,6 @@ main .library-grid {
     gap: 24px;
     margin-top: 28px;
     max-height: 520px;
-    overflow-y: auto;
     padding-right: 4px;
 }
 

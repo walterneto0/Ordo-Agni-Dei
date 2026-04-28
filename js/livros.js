@@ -140,7 +140,7 @@ const livros = [
         tags: ["metafísica", "filosofia", "escolástica"],
         tipo: "Livro",
         dificuldade: "Avançado",
-        capa: "Compêndio Sistemático da Ciência Metafísica-capa",
+        capa: "../src/capas/Compêndio Sistemático da Ciência Metafísica-capa.png",
         link: "../biblioteca/livros/compendio-metafisica-keckermann.pdf"
     },
 
