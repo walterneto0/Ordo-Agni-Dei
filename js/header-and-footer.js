@@ -36,7 +36,7 @@ if (siteNav) {
 const updateNavVisibility = () => {
     const currentScrollY = window.scrollY;
     const scrollingUp = currentScrollY < lastScrollY;
-    const nearTop = currentScrollY <= 24;
+    const nearTop = currentScrollY <= 170;
 
     const shouldShow = scrollingUp || nearTop;
     siteNav.classList.toggle("nav-visible", shouldShow);
