@@ -69,11 +69,37 @@ body {
 
 .nav-links {
     display: flex;
-    flex-wrap: wrap;
     gap: 12px;
-    justify-content: center;
+    justify-content: left;
     flex: 1;
     min-width: 0;
+    overflow-x: auto;
+}
+
+.nav-links > * {
+    flex: 0 0 auto;
+}
+
+#search-bar-div {
+    width: 100px;
+}
+
+.nav-toggle {
+    display: none;
+    align-items: center;
+    justify-content: center;
+    padding: 10px 14px;
+    border-radius: 999px;
+    border: 1px solid rgba(255, 247, 239, 0.18);
+    background: rgba(255, 247, 239, 0.08);
+    color: #fff7ef;
+    font-size: 1.2rem;
+    cursor: pointer;
+}
+
+.nav-toggle:hover,
+.nav-toggle:focus-visible {
+    background: rgba(255, 247, 239, 0.18);
 }
 
 .nav-download {
@@ -82,14 +108,38 @@ body {
 
 @media (max-width: 740px) {
     .site-nav {
-        flex-wrap: wrap;
-        justify-content: center;
+        flex-wrap: nowrap;
+        justify-content: flex-start;
+        overflow-x: auto;
+        padding: 12px 14px;
+    }
+
+    .nav-toggle {
+        display: inline-flex;
+        margin-right: 12px;
     }
 
     .nav-links {
+        display: none;
+        flex-wrap: wrap;
+        gap: 12px;
         width: 100%;
-        justify-content: center;
-        order: 2;
+        overflow-x: auto;
+        scrollbar-width: none;
+    }
+
+    .site-nav.nav-open .nav-links {
+        display: flex;
+    }
+
+    .nav-links > * {
+        flex: 0 0 auto;
+    }
+
+    .nav-links input {
+        min-width: 160px;
+        width: 100%;
+        max-width: none;
     }
 
     .nav-download {
@@ -281,12 +331,6 @@ body {
     .brand-logo {
         width: 56px;
         height: 56px;
-    }
-
-    .site-nav {
-        justify-content: flex-start;
-        overflow-x: auto;
-        padding: 12px 18px;
     }
 
     .nav-link {
